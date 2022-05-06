@@ -1,790 +1,1402 @@
-Name,Rarity,Type,SubType,Attunement,Notes
-Abracadabrus,Very Rare,Wondrous Item,No SubType,Not Required,"Utility, Container"
-Absorbing Tattoo,Very Rare,Wondrous Item,No SubType,Required,
-Acheron Blade,Rare,Weapon,No SubType,Required,"Bonus: Temporary Hit Points, Bonus: Magic"
-Adamantine Armor,Uncommon,Armor,No SubType,Not Required,"Immunity: Critical Hits, Combat, Warding"
-"Akmon, Hammer of Purphoros",Artifact,Weapon,Warhammer,Required,"Damage: Fire, Resistance: Fire, Immunity: Exhaustion, Bonus: Magic, Proficiency: Smith's Tools, Versatile"
-Alchemical Compendium,Rare,Wondrous Item,No SubType,Required,wizard
-Alchemy Jug,Uncommon,Wondrous Item,No SubType,Not Required,Utility
-Alchemy Jug (Blue),Uncommon,Wondrous Item,No SubType,Not Required,Utility
-Alchemy Jug (Orange),Uncommon,Wondrous Item,No SubType,Not Required,Utility
-All-Purpose Tool,Varies,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Bonus: Spell Save DC, artificer"
-Amethyst Lodestone,Very Rare,Wondrous Item,No SubType,Required,"Advantage: Strength Saving Throws, Set: Innate Speed (Flying)"
-"Ammunition, +1",Uncommon,Weapon,No SubType,Not Required,"Bonus: Magic, Damage"
-"Ammunition, +2",Rare,Weapon,No SubType,Not Required,"Bonus: Magic, Damage"
-"Ammunition, +3",Very Rare,Weapon,No SubType,Not Required,"Bonus: Magic, Damage"
-Amulet of Health,Rare,Wondrous Item,No SubType,Required,"Set: Constitution Score, Buff, Jewelry"
-Amulet of Proof against Detection and Location,Uncommon,Wondrous Item,No SubType,Required,"Deception, Jewelry"
-Amulet of Protection from Turning,Rare,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Buff, Warding"
-Amulet of the Black Skull,Very Rare,Wondrous Item,No SubType,Required,"Teleportation, Bane"
-Amulet of the Devout,Varies,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Bonus: Spell Save DC, cleric or paladin"
-Amulet of the Drunkard,Uncommon,Wondrous Item,No SubType,Not Required,Healing
-Amulet of the Planes,Very Rare,Wondrous Item,No SubType,Required,"Teleportation, Exploration, Jewelry"
-Animated Shield,Very Rare,Armor,Shield,Required,"Utility, Warding"
-Apparatus of Kwalish,Legendary,Wondrous Item,No SubType,Not Required,"Utility, Exploration, Combat"
-Apparatus of the Crab,Legendary,Wondrous Item,No SubType,Not Required,"Utility, Exploration, Combat"
-Arcane Cannon,Very Rare,Wondrous Item,No SubType,Not Required,
-Arcane Grimoire,Varies,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Bonus: Spell Save DC, wizard"
-Arcane Propulsion Arm,Very Rare,Wondrous Item,No SubType,Required,creature missing a hand or an arm
-Armblade,Common,Weapon,Club,Required,"Warforged, Damage, Combat, Light"
-Armor of Gleaming,Common,Armor,Breastplate,Not Required,Utility
-Armor of Invulnerability,Legendary,Armor,Plate,Required,"Resistance: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks, Immunity: Bludgeoning, Piercing, and Slashing from Nonmagical Weapons, Combat, Warding, Str 15 Required, Stealth Disadvantage"
-Armor of Resistance,Rare,Armor,Breastplate,Required,"Resistance: Acid, Resistance: Cold, Resistance: Fire, Resistance: Force, Resistance: Lightning, Resistance: Necrotic, Resistance: Poison, Resistance: Psychic, Resistance: Radiant, Resistance: Thunder, Combat, Warding"
-Armor of Vulnerability,Rare,Armor,Plate,Required,"Resistance: Bludgeoning, Resistance: Piercing, Resistance: Slashing, Vulnerability: Bludgeoning, Vulnerability: Piercing, Vulnerability: Slashing, Combat, Warding, Cursed, Str 15 Required, Stealth Disadvantage"
-"Armor, +1",Rare,Armor,No SubType,Not Required,"Bonus: Armor Class, Combat, Warding"
-"Armor, +2",Very Rare,Armor,No SubType,Not Required,"Bonus: Armor Class, Combat, Warding"
-"Armor, +3",Legendary,Armor,No SubType,Not Required,"Bonus: Armor Class, Combat, Warding"
-Arrow of Slaying,Very Rare,Weapon,No SubType,Not Required,"Damage: Piercing, Damage, Combat, Bane"
-Arrow-Catching Shield,Rare,Armor,Shield,Required,"Combat, Warding"
-Astral Shard,Rare,Wondrous Item,No SubType,Required,sorcerer
-Astromancy Archive,Rare,Wondrous Item,No SubType,Required,wizard
-Atlas of Endless Horizons,Rare,Wondrous Item,No SubType,Required,wizard
-Axe of the Dwarvish Lords,Artifact,Weapon,Battleaxe,Required,"Bonus: Constitution Score, Advantage: Persuasion, Immunity: Poison, Sense: Darkvision, Damage: Additional, Bonus: Magic, Proficiency: Brewer's Supplies, Proficiency: Mason's Tools, Proficiency: Smith's Tools, Damage, Buff, Debuff, Combat, Cursed, Versatile"
-Azuredge,Legendary,Weapon,Battleaxe,Required,"Damage: Radiant, Bonus: Magic, Versatile"
-Baba Yaga’s Mortar and Pestle,Artifact,Wondrous Item,No SubType,Required,
-Badge of the Watch,Rare,Wondrous Item,No SubType,Required,"Bonus: Armor Class, someone designated by the Open Lord of Waterdeep"
-Bag of Beans,Rare,Wondrous Item,No SubType,Not Required,"Damage, Control, Utility, Combat"
-Bag of Bounty,Uncommon,Wondrous Item,No SubType,Not Required,
-Bag of Devouring,Very Rare,Wondrous Item,No SubType,Not Required,"Control, Utility, Combat, Container"
-Bag of Holding,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Container"
-Bag of Tricks,Uncommon,Wondrous Item,No SubType,Not Required,"Summoning, Utility"
-Balance of Harmony,Uncommon,Wondrous Item,No SubType,Not Required,Detection
-Balloon Pack,Uncommon,Wondrous Item,No SubType,Not Required,"Movement, Utility, Exploration"
-Band of Loyalty,Common,Ring,No SubType,Required,
-Banner of the Krig Rune,Rare,Wondrous Item,No SubType,Required,"Immunity: Frightened, Buff, Detection, Combat, Warding"
-Barrier Tattoo,Varies,Wondrous Item,No SubType,Required,Set: Unarmored Armor Class
-Battering Shield,Rare,Armor,Shield,Required,Bonus: Armor Class
-Battle Standard of Infernal Power,Very Rare,Wondrous Item,No SubType,Required,
-Bead of Force,Rare,Wondrous Item,No SubType,Not Required,"Damage: Force, Damage, Control, Combat, Consumable"
-Bead of Nourishment,Common,Wondrous Item,No SubType,Not Required,
-Bead of Refreshment,Common,Wondrous Item,No SubType,Not Required,
-Belashyrra’s Beholder Crown,Legendary,Wondrous Item,No SubType,Required,Symbiotic
-Bell Branch,Rare,Wondrous Item,No SubType,Required,druid or warlock
-Belt of Dwarvenkind,Rare,Wondrous Item,No SubType,Required,"Bonus: Constitution Score, Advantage: Saving Throws, Advantage: Persuasion, Resistance: Poison, Language: Dwarvish, Set Base: Darkvision, Buff, Social, Utility, Belt"
-Belt of Giant Strength,Varies,Wondrous Item,No SubType,Required,"Set: Strength Score, Buff, Belt"
-Berserker Axe,Rare,Weapon,Battleaxe,Required,"Bonus: Magic, Bonus: Hit Points per Level, Combat, Cursed, Versatile"
-Black Crystal Tablet,Legendary,Wondrous Item,No SubType,Required,"creature that has proficiency in the Arcana skill, Teleportation, Control"
-Black Dragon Mask,Legendary,Wondrous Item,No SubType,Required,"Advantage: Charisma Ability Checks, Resistance: Acid, Sense: Blindsight, Sense: Darkvision, Language: Draconic, Bonus: Unarmored Armor Class, Buff"
-Blackrazor,Legendary,Weapon,Greatsword,Required,"Advantage: Saving Throws, Advantage: Ability Checks, Advantage: Melee Attacks, Advantage: Ranged Attacks, Bonus: Magic, Creature of Non-Lawful Alignment, Damage, Buff, Combat, Bane, Sentient, Heavy, Two-Handed"
-Blackstaff,Legendary,Staff,No SubType,Required,"Bonus: Armor Class, Bonus: Saving Throws, Bonus: Spell Attacks, Damage: Force, Bonus: Magic, Blackstaff heir, who must be a wizard"
-Blade of Avernus,Artifact,Weapon,Longsword,Required,"Bonus: Magic, Versatile"
-Blade of Broken Mirrors,Artifact,Weapon,Dagger,Required,"Bonus: Magic, Language: Abyssal, humanoid, Finesse, Light, Thrown"
-Blade of the Medusa,Very Rare,Weapon,No SubType,Required,
-Blast Scepter,Very Rare,Rod,No SubType,Required,"Resistance: Fire, Resistance: Lightning, Damage, Combat"
-Blod Stone,Rare,Wondrous Item,No SubType,Required,Detection
-Blood Fury Tattoo,Legendary,Wondrous Item,No SubType,Required,Damage: Necrotic
-Blood of the Lycanthrope Antidote,Uncommon,Potion,No SubType,Not Required,Consumable
-Blood Spear,Uncommon,Weapon,Spear,Required,"Bonus: Temporary Hit Points, Bonus: Magic, Damage, Buff, Combat, Thrown, Versatile"
-Bloodaxe,Very Rare,Weapon,Greataxe,Required,"Damage: Necrotic, Bonus: Magic, Heavy, Two-Handed"
-Bloodwell Vial,Varies,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Bonus: Spell Save DC, sorcerer"
-Blue Dragon Mask,Legendary,Wondrous Item,No SubType,Required,"Advantage: Charisma Ability Checks, Resistance: Lightning, Sense: Blindsight, Sense: Darkvision, Language: Draconic, Bonus: Unarmored Armor Class"
-Bobbing Lily Pad,Very Rare,Wondrous Item,No SubType,Required,
-Bonecounter,Rare,Weapon,Mace,Not Required,Bonus: Magic
-Book of Exalted Deeds,Artifact,Wondrous Item,No SubType,Required,"Bonus: Wisdom Score, Advantage: Intimidation, Advantage: Persuasion, Bonus: Ability Score Maximum, Spell Slot Increase: Cleric, Spell Slot Increase: Paladin, creature of good alignment, Damage, Buff, Utility"
-Book of Vile Darkness,Artifact,Wondrous Item,No SubType,Required,"Advantage: Intimidation, Advantage: Persuasion, Expertise: Intelligence Ability Checks, Damage, Control, Buff, Debuff, Utility, Combat, Cursed"
-Bookmark,Legendary,Weapon,Dagger,Required,"Bonus: Magic, Damage, Control, Movement, Utility, Exploration, Combat, Finesse, Light, Thrown"
-"Boomerang, +1",Uncommon,Weapon,Boomerang,Not Required,"Bonus: Magic, Damage, Combat, Range"
-"Boomerang, +2",Rare,Weapon,Boomerang,Not Required,"Bonus: Magic, Damage, Combat, Range"
-"Boomerang, +3",Very Rare,Weapon,Boomerang,Not Required,"Bonus: Magic, Damage, Combat, Range"
-Boots of Elvenkind,Uncommon,Wondrous Item,No SubType,Not Required,"Advantage: Stealth, Movement, Utility, Deception, Footwear"
-Boots of False Tracks,Common,Wondrous Item,No SubType,Not Required,Movement
-Boots of Levitation,Rare,Wondrous Item,No SubType,Required,"Movement, Utility, Footwear"
-Boots of Speed,Rare,Wondrous Item,No SubType,Required,"Bonus: Speed, Buff, Movement, Utility, Footwear"
-Boots of Striding and Springing,Uncommon,Wondrous Item,No SubType,Required,"Set: Innate Speed (Walking), Speed Reduction: Remove, Buff, Movement, Utility, Footwear"
-Boots of the Winterlands,Uncommon,Wondrous Item,No SubType,Required,"Resistance: Cold, Buff, Utility, Warding, Footwear"
-Bottle of Boundless Coffee,Common,Wondrous Item,No SubType,Not Required,
-Bottled Breath,Uncommon,Potion,No SubType,Not Required,"Control, Utility"
-Bowl of Commanding Water Elementals,Rare,Wondrous Item,No SubType,Not Required,Summoning
-Bracelet of Rock Magic,Very Rare,Wondrous Item,No SubType,Required,"Buff, Warding, Cursed, Wristwear"
-Bracer of Flying Daggers,Rare,Wondrous Item,No SubType,Required,Wristwear
-Bracers of Archery,Uncommon,Wondrous Item,No SubType,Required,"Proficiency: Shortbow, Proficiency: Longbow, Damage: Shortbow, Damage: Longbow, Damage, Buff, Combat, Wristwear"
-Bracers of Defense,Rare,Wondrous Item,No SubType,Required,"Bonus: Unarmored Armor Class, Warding, Wristwear"
-Brazier of Commanding Fire Elementals,Rare,Wondrous Item,No SubType,Not Required,Summoning
-Breathing Bubble,Common,Wondrous Item,No SubType,Not Required,
-Bridle of Capturing,Rare,Wondrous Item,No SubType,Not Required,
-Brooch of Living Essence,Uncommon,Wondrous Item,No SubType,Required,
-Brooch of Shielding,Uncommon,Wondrous Item,No SubType,Required,"Resistance: Force, Warding, Jewelry"
-Broom of Flying,Uncommon,Wondrous Item,No SubType,Not Required,"Set: Speed (Flying), Movement, Utility, Exploration"
-Butcher's Bib,Rare,Wondrous Item,No SubType,Required,
-Candle of Invocation,Very Rare,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Advantage: Ability Checks, Advantage: Melee Attacks, Advantage: Ranged Attacks, Advantage: Spell Attacks, Buff, Consumable"
-Candle of the Deep,Common,Wondrous Item,No SubType,Not Required,
-Cap of Water Breathing,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
-Cape of the Mountebank,Rare,Wondrous Item,No SubType,Not Required,"Teleportation, Exploration, Outerwear"
-Carpet of Flying,Very Rare,Wondrous Item,No SubType,Not Required,"Set: Speed (Flying), Movement, Utility, Exploration"
-Cartographer's Map Case,Common,Wondrous Item,No SubType,Not Required,
-Cast-Off Armor,Common,Armor,Breastplate,Not Required,Utility
-Cauldron of Plenty,Rare,Wondrous Item,No SubType,Not Required,"Utility, Container"
-Cauldron of Rebirth,Very Rare,Wondrous Item,No SubType,Required,druid or warlock
-Censer of Controlling Air Elementals,Rare,Wondrous Item,No SubType,Not Required,Summoning
-Charlatan’s Die,Common,Wondrous Item,No SubType,Required,Social
-Charm of Plant Command,Rare,Wondrous Item,No SubType,Required,Communication
-Chest of Preserving,Common,Wondrous Item,No SubType,Not Required,
-Chime of Opening,Rare,Wondrous Item,No SubType,Not Required,"Utility, Exploration, Consumable"
-Chromatic Rose,Rare,Wondrous Item,No SubType,Not Required,
-Chronolometer,Very Rare,Wondrous Item,No SubType,Required,Bonus: Intelligence Saving Throws
-Circlet of Blasting,Uncommon,Wondrous Item,No SubType,Not Required,"Damage, Combat, Headwear"
-Circlet of Human Perfection,Uncommon,Wondrous Item,No SubType,Required,humanoid
-Claw of the Wyrm Rune,Rare,Wondrous Item,No SubType,Required,"Resistance: All, Combat, Warding, Bane"
-Claws of the Umber Hulk,Rare,Wondrous Item,No SubType,Required,"Set: Innate Speed (Burrowing), Melee Weapon Attack: Slashing"
-Cleansing Stone,Common,Wondrous Item,No SubType,Not Required,
-Cloak of Arachnida,Very Rare,Wondrous Item,No SubType,Required,"Resistance: Poison, Set: Innate Speed (Climbing), Control, Buff, Movement, Warding, Outerwear"
-Cloak of Billowing,Common,Wondrous Item,No SubType,Not Required,Social
-Cloak of Displacement,Rare,Wondrous Item,No SubType,Required,"Disadvantage: Attack Rolls Against You, Deception, Warding, Outerwear"
-Cloak of Elvenkind,Uncommon,Wondrous Item,No SubType,Required,"Advantage: Stealth, Deception, Outerwear"
-Cloak of Invisibility,Legendary,Wondrous Item,No SubType,Required,"Invisible, Exploration, Deception, Warding"
-Cloak of Many Fashions,Common,Wondrous Item,No SubType,Not Required,Social
-Cloak of Protection,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Armor Class, Bonus: Saving Throws, Warding, Outerwear"
-Cloak of the Bat,Rare,Wondrous Item,No SubType,Required,"Advantage: Stealth, Set: Innate Speed (Flying), Movement, Shapechanging, Deception, Outerwear"
-Cloak of the Manta Ray,Uncommon,Wondrous Item,No SubType,Not Required,"Set: Innate Speed (Swimming), Buff, Movement, Outerwear"
-Clockwork Amulet,Common,Wondrous Item,No SubType,Not Required,Combat
-Clothes of Mending,Common,Wondrous Item,No SubType,Not Required,Social
-Coiling Grasp Tattoo,Uncommon,Wondrous Item,No SubType,Required,
-Coin of Decisionry,Varies,Wondrous Item,No SubType,Not Required,
-Coin of Delving,Common,Wondrous Item,No SubType,Not Required,
-Concertina,Rare,Wondrous Item,No SubType,Not Required,
-Conch of Teleportation,Very Rare,Wondrous Item,No SubType,Required,"Teleportation, Movement, Exploration"
-Corpse Slayer,Rare,Weapon,No SubType,Required,"Damage: Additional, Bonus: Magic"
-Cracked Driftglobe,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
-Crook of Rao,Artifact,Wondrous Item,No SubType,Required,
-Crown of the Forest,Uncommon,Wondrous Item,No SubType,Not Required,
-Crystal Ball,Very Rare,Wondrous Item,No SubType,Required,"Scrying, Detection"
-Crystal Ball of Mind Reading,Legendary,Wondrous Item,No SubType,Required,"Scrying, Detection"
-Crystal Ball of Telepathy,Legendary,Wondrous Item,No SubType,Required,"Control, Communication, Scrying, Detection"
-Crystal Ball of True Seeing,Legendary,Wondrous Item,No SubType,Required,"Sense: Truesight, Scrying, Detection"
-Crystal Blade,Rare,Weapon,No SubType,Required,Damage: Radiant
-Crystalline Chronicle,Very Rare,Wondrous Item,No SubType,Required,wizard
-Cube of Force,Rare,Wondrous Item,No SubType,Required,"Control, Warding"
-Cubic Gate,Legendary,Wondrous Item,No SubType,Not Required,"Teleportation, Exploration"
-Cuddly Strixhaven Mascot,Common,Wondrous Item,No SubType,Not Required,Advantage: Saving Throws
-Cursed Luckstone,Uncommon,Wondrous Item,No SubType,Required,"Buff, Debuff, Utility"
-Daern's Instant Fortress,Rare,Wondrous Item,No SubType,Not Required,"Utility, Warding"
-Dagger of Blindsight,Rare,Weapon,Dagger,Required,"Sense: Blindsight, Finesse, Light, Thrown"
-Dagger of Venom,Rare,Weapon,Dagger,Not Required,"Damage: Poison, Bonus: Magic, Poisoned, Damage, Debuff, Combat, Finesse, Light, Thrown"
-Dancing Sword,Very Rare,Weapon,No SubType,Required,"Damage, Combat"
-Danoth’s Visor,Legendary,Wondrous Item,No SubType,Required,"Advantage: Investigation, Advantage: Perception"
-Dark Shard Amulet,Common,Wondrous Item,No SubType,Required,warlock
-Dawnbringer,Legendary,Weapon,Longsword,Required,"Damage: Radiant, Bonus: Magic, Weapon Property: Finesse, Replace Damage Type: Radiant, Creature of Non-Evil Alignment, Damage, Combat, Sentient, Versatile"
-Decanter of Endless Water,Uncommon,Wondrous Item,No SubType,Not Required,"Creation, Utility"
-Deck of Illusions,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Deception, Consumable"
-Deck of Many Things,Legendary,Wondrous Item,No SubType,Not Required,"Utility, Consumable"
-Deck of Several Things,Legendary,Wondrous Item,No SubType,Not Required,
-Defender,Legendary,Weapon,Longsword,Required,"Bonus: Magic, Damage, Combat, Warding, Versatile"
-"Dekella, Bident of Thassa",Artifact,Weapon,Trident,Required,"Damage: Cold, Bonus: Magic, Set: Speed (Swimming), Damage, Control, Combat, Thrown, Versatile"
-Demon Armor,Very Rare,Armor,Plate,Required,"Bonus: Armor Class, Language: Abyssal, Damage, Combat, Warding, Cursed, Str 15 Required, Stealth Disadvantage"
-Demonomicon of Iggwilv,Artifact,Wondrous Item,No SubType,Required,
-Devastation Orb,Very Rare,Wondrous Item,No SubType,Not Required,"Damage, Control"
-Devotee's Censer,Rare,Weapon,Flail,Required,"Damage: Radiant, cleric or paladin"
-Dimensional Loop,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Strength Saving Throws, Sense: Darkvision"
-Dimensional Shackles,Rare,Wondrous Item,No SubType,Not Required,"Control, Utility"
-Dispelling Stone,Very Rare,Wondrous Item,No SubType,Not Required,
-Docent,Rare,Wondrous Item,No SubType,Required,"Warforged, Communication, Detection, Utility, Sentient"
-Documancy Satchel,Varies,Wondrous Item,No SubType,Not Required,
-Dodecahedron of Doom,Rare,Wondrous Item,No SubType,Not Required,Utility
-Draakhorn,Artifact,Wondrous Item,No SubType,Not Required,Control
-Dragon Scale Mail,Very Rare,Armor,Scale Mail,Required,"Bonus: Armor Class, Advantage: Saving Throws, Resistance: Acid, Resistance: Cold, Resistance: Fire, Resistance: Lightning, Resistance: Poison, Detection, Combat, Warding, Stealth Disadvantage"
-Dragon Slayer,Rare,Weapon,Longsword,Not Required,"Damage: Additional, Bonus: Magic, Damage, Combat, Versatile"
-Dragon Vessel,Varies,Wondrous Item,No SubType,Required,
-Dragon Wing Bow,Rare,Weapon,No SubType,Required,"Damage: Acid, Damage: Cold, Damage: Fire, Damage: Force, Damage: Lightning, Damage: Necrotic, Damage: Poison, Damage: Psychic, Damage: Thunder"
-Dragon’s Wrath Weapon,Varies,Weapon,No SubType,Required,"Damage: Additional, Bonus: Magic"
-Dragonguard,Rare,Armor,Breastplate,Not Required,"Bonus: Armor Class, Advantage: Saving Throws, Combat, Warding"
-Dragonhide Belt,Varies,Wondrous Item,No SubType,Required,Monk
-Dragonlance,Legendary,Weapon,No SubType,Required,"Damage: Force, Bonus: Magic"
-Dragonstaff of Ahghairon,Legendary,Staff,No SubType,Required,
-Dragontooth Dagger,Rare,Weapon,Dagger,Not Required,"Damage: Acid, Bonus: Magic, Damage, Bane, Finesse, Light, Thrown"
-Dragon-Touched Focus,Varies,Wondrous Item,No SubType,Required,"Advantage: Initiative, spellcaster"
-Dread Helm,Common,Wondrous Item,No SubType,Not Required,Social
-Driftglobe,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
-Drown,Legendary,Weapon,Trident,Required,"Damage: Cold, Resistance: Cold, Bonus: Magic, Language: Aquan, Damage, Buff, Combat, Thrown, Versatile"
-Duplicitous Manuscript,Rare,Wondrous Item,No SubType,Required,wizard
-Duskcrusher,Very Rare,Weapon,Warhammer,Required,"Damage: Radiant, Bonus: Magic, Replace Damage Type: Radiant, Versatile"
-Dust of Corrosion,Uncommon,Wondrous Item,No SubType,Not Required,
-Dust of Deliciousness,Uncommon,Wondrous Item,No SubType,Not Required,
-Dust of Disappearance,Uncommon,Wondrous Item,No SubType,Not Required,"Invisible, Utility, Deception, Consumable"
-Dust of Dryness,Uncommon,Wondrous Item,No SubType,Not Required,"Damage: Necrotic, Damage, Control, Combat, Consumable"
-Dust of Sneezing and Choking,Uncommon,Wondrous Item,No SubType,Not Required,"Incapacitated, Control, Debuff"
-Dwarven Plate,Very Rare,Armor,Plate,Not Required,"Bonus: Armor Class, Control, Combat, Warding, Str 15 Required, Stealth Disadvantage"
-Dwarven Thrower,Very Rare,Weapon,Warhammer,Required,"Damage: Additional, Damage: Additional, Bonus: Magic, Dwarf, Damage, Combat, Versatile"
-Dyrrn’s Tentacle Whip,Very Rare,Weapon,Whip,Required,"Damage: Psychic, Bonus: Magic, Symbiotic, Finesse, Reach"
-Eagle Whistle,Rare,Wondrous Item,No SubType,Not Required,"Buff, Movement"
-Ear Horn of Hearing,Common,Wondrous Item,No SubType,Not Required,
-Earring of Message,Common,Wondrous Item,No SubType,Not Required,
-Earworm,Uncommon,Wondrous Item,No SubType,Required,"Language: Deep Speech, Symbiotic"
-Efficient Quiver,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Container"
-Efreeti Bottle,Very Rare,Wondrous Item,No SubType,Not Required,"Control, Utility, Consumable"
-Efreeti Chain,Legendary,Armor,Chain Mail,Required,"Bonus: Armor Class, Immunity: Fire, Language: Primordial, Str 13 Required, Stealth Disadvantage"
-Elder Cartographer’s Glossography,Uncommon,Wondrous Item,No SubType,Not Required,
-Eldritch Claw Tattoo,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Unarmed Attacks, Damage: Unarmed Attacks"
-Eldritch Staff,Very Rare,Staff,No SubType,Required,"Damage: Lightning, Bonus: Magic, Damage, Combat"
-Elemental Essence Shard,Rare,Wondrous Item,No SubType,Required,sorcerer
-Elemental Gem,Uncommon,Wondrous Item,No SubType,Not Required,Summoning
-Elixir of Health,Rare,Potion,No SubType,Not Required,
-Elven Chain,Rare,Armor,Chain Shirt,Not Required,"Bonus: Armor Class, Proficiency: Self, Combat, Warding"
-Emerald Pen,Uncommon,Wondrous Item,No SubType,Not Required,
-Enduring Spellbook,Common,Wondrous Item,No SubType,Not Required,
-"Ephixis, Bow of Nylea",Artifact,Weapon,Shortbow,Required,"Bonus: Magic, Summoning, Damage, Combat, Ammunition, Range, Two-Handed"
-Ersatz Eye,Common,Wondrous Item,No SubType,Required,Social
-Everbright Lantern,Common,Wondrous Item,No SubType,Not Required,
-Eversmoking Bottle,Uncommon,Wondrous Item,No SubType,Not Required,"Control, Utility, Deception"
-Eye and Hand of Vecna,Artifact,Wondrous Item,No SubType,Not Required,"Immunity: Poison, Immunity: Disease, Damage, Buff, Debuff, Utility, Combat, Cursed, Eyewear, Handwear"
-Eyes of Charming,Uncommon,Wondrous Item,No SubType,Required,"Control, Social, Eyewear"
-Eyes of Minute Seeing,Uncommon,Wondrous Item,No SubType,Not Required,"Advantage: Investigation, Detection, Utility, Eyewear"
-Eyes of the Eagle,Uncommon,Wondrous Item,No SubType,Required,"Advantage: Perception, Detection, Utility, Eyewear"
-Failed Experiment Wand,Rare,Wand,No SubType,Required,"Spellcaster, Damage, Combat"
-Fane-Eater,Legendary,Weapon,Battleaxe,Required,"Damage: Necrotic, Bonus: Magic, evil cleric or paladin, Versatile"
-Far Gear,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Charisma Saving Throws, Advantage: Intimidation"
-Far Realm Shard,Rare,Wondrous Item,No SubType,Required,sorcerer
-Feather of Diatryma Summoning,Rare,Wondrous Item,No SubType,Required,
-Feather Token,Rare,Wondrous Item,No SubType,Not Required,"Creation, Summoning, Damage, Control, Movement, Utility, Exploration, Combat, Consumable"
-Feather Token (Feather Fall),Common,Wondrous Item,No SubType,Not Required,
-Fernian Ash Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
-Feywild Shard,Uncommon,Wondrous Item,No SubType,Required,sorcerer
-Figurine of Wondrous Power,Varies,Wondrous Item,No SubType,Not Required,Summoning
-Finder’s Goggles,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Insight, creature with the Mark of Finding, Buff, Detection, Eyewear"
-Flail of Tiamat,Legendary,Weapon,Flail,Required,"Damage: Acid, Damage: Cold, Damage: Fire, Damage: Lightning, Damage: Poison, Bonus: Magic"
-Flame Tongue,Rare,Weapon,Longsword,Required,"Damage: Fire, Damage, Combat, Versatile"
-Flying Chariot,Rare,Wondrous Item,No SubType,Not Required,Bonus: Armor Class
-Folding Boat,Rare,Wondrous Item,No SubType,Not Required,"Movement, Utility, Exploration"
-Frost Brand,Very Rare,Weapon,Longsword,Required,"Damage: Cold, Resistance: Fire, Damage, Combat, Versatile"
-Fulminating Treatise,Rare,Wondrous Item,No SubType,Required,wizard
-Galder’s Bubble Pipe,Rare,Wondrous Item,No SubType,Required,
-Gambler’s Blade,Rare,Weapon,No SubType,Required,Bonus: Magic
-Gauntlets of Flaming Fury,Rare,Wondrous Item,No SubType,Required,"Damage: Fire, Damage, Combat, Handwear"
-Gauntlets of Ogre Power,Uncommon,Wondrous Item,No SubType,Required,"Set: Strength Score, Buff, Handwear"
-Gavel of the Venn Rune,Rare,Wondrous Item,No SubType,Required,"Damage, Utility, Warding"
-Gem of Brightness,Uncommon,Wondrous Item,No SubType,Not Required,"Blinded, Control, Debuff"
-Gem of Seeing,Rare,Wondrous Item,No SubType,Required,"Sense: Truesight, Detection"
-Ghost Lantern,Rare,Wondrous Item,No SubType,Required,"Healing, Utility, Exploration"
-Ghost Step Tattoo,Very Rare,Wondrous Item,No SubType,Required,
-Giant Slayer,Rare,Weapon,Battleaxe,Not Required,"Damage: Additional, Bonus: Magic, Damage, Combat, Versatile"
-Glamerweave,Varies,Wondrous Item,No SubType,Not Required,
-Glamoured Studded Leather,Rare,Armor,Studded Leather,Not Required,"Bonus: Armor Class, Utility, Combat, Deception, Warding"
-Gloves of Missile Snaring,Uncommon,Wondrous Item,No SubType,Required,"Warding, Handwear"
-Gloves of Soul Catching,Legendary,Wondrous Item,No SubType,Required,Set: Constitution Score
-Gloves of Swimming and Climbing,Uncommon,Wondrous Item,No SubType,Required,"Buff, Movement, Exploration"
-Gloves of Thievery,Uncommon,Wondrous Item,No SubType,Not Required,Bonus: Sleight of Hand
-Gnomengarde Grenade,Varies,Wondrous Item,No SubType,Not Required,"Damage: Fire, Damage: Thunder"
-Goggles of Night,Uncommon,Wondrous Item,No SubType,Not Required,"Sense: Darkvision, Detection, Eyewear"
-Goggles of Object Reading,Uncommon,Wondrous Item,No SubType,Required,Advantage: Arcana
-Gold Canary Figurine of Wondrous Power,Legendary,Wondrous Item,No SubType,Not Required,
-Greater Silver Sword,Legendary,Weapon,Greatsword,Required,"Advantage: Intelligence Saving Throws, Advantage: Wisdom Saving Throws, Advantage: Charisma Saving Throws, Resistance: Psychic, Immunity: Charmed, Bonus: Magic, creature that has psionic ability, Damage, Buff, Heavy, Two-Handed"
-Green Dragon Mask,Legendary,Wondrous Item,No SubType,Required,"Advantage: Charisma Ability Checks, Resistance: Poison, Sense: Blindsight, Sense: Darkvision, Language: Draconic, Bonus: Unarmored Armor Class, Buff"
-Grimoire Infinitus,Legendary,Wondrous Item,No SubType,Required,wizard
-Grovelthrash,Artifact,Weapon,Warhammer,Required,"Damage: Bludgeoning, Advantage: Insight, Bonus: Magic, Language: Abyssal, Language: Infernal, Versatile"
-Guardian Emblem,Uncommon,Wondrous Item,No SubType,Required,cleric or paladin
-Guild Keyrune,Varies,Wondrous Item,No SubType,Required,member of the relevant guild
-Guild Signet,Uncommon,Ring,No SubType,Required,
-Gulthias Staff,Rare,Staff,No SubType,Required,"Damage, Buff, Combat"
-Gurt’s Greataxe,Legendary,Weapon,Greataxe,Required,"Damage: Slashing, Bonus: Magic, Damage, Bane, Heavy, Two-Handed"
-Hammer of Thunderbolts,Legendary,Weapon,Maul,Required,"Bonus: Magic, Bonus: Ability Score Maximum, Stacking Bonus: Strength Score, Damage, Buff, Combat, Heavy, Two-Handed"
-Handy Haversack,Rare,Wondrous Item,No SubType,Not Required,"Utility, Container"
-Harkon’s Bite,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Saving Throws, Bonus: Ability Checks"
-Hat of Disguise,Uncommon,Wondrous Item,No SubType,Required,"Deception, Headwear"
-Hat of Vermin,Common,Wondrous Item,No SubType,Not Required,
-Hat of Wizardry,Common,Wondrous Item,No SubType,Required,wizard
-Hazirawn,Legendary,Weapon,Greatsword,Required,"Damage: Necrotic, Bonus: Magic, Damage, Buff, Combat, Sentient, Heavy, Two-Handed"
-Headband of Intellect,Uncommon,Wondrous Item,No SubType,Required,"Set: Intelligence Score, Buff, Headwear"
-Heart Weaver’s Primer,Rare,Wondrous Item,No SubType,Required,wizard
-Hell Hound Cloak,Rare,Wondrous Item,No SubType,Required,"Buff, Shapechanging, Cursed"
-Hellfire Weapon,Uncommon,Weapon,No SubType,Not Required,"Damage, Combat"
-Helm of Brilliance,Very Rare,Wondrous Item,No SubType,Required,"Resistance: Fire, Damage, Detection, Combat, Warding, Headwear"
-Helm of Comprehending Languages,Uncommon,Wondrous Item,No SubType,Not Required,"Communication, Headwear"
-Helm of Devil Command,Very Rare,Wondrous Item,No SubType,Required,creature that can speak Infernal
-Helm of Telepathy,Uncommon,Wondrous Item,No SubType,Required,"Communication, Detection, Headwear"
-Helm of Teleportation,Rare,Wondrous Item,No SubType,Required,"Teleportation, Headwear"
-Helm of the Gods,Rare,Wondrous Item,No SubType,Required,Headwear
-Helm of the Scavenger,Legendary,Wondrous Item,No SubType,Required,spellcaster
-Helm of Underwater Action,Uncommon,Wondrous Item,No SubType,Required,"Set: Speed (Swimming), Set Base: Darkvision, Movement, Exploration"
-Hew,Uncommon,Weapon,Battleaxe,Not Required,"Bonus: Magic, Damage, Combat, Versatile"
-Heward’s Handy Spice Pouch,Common,Wondrous Item,No SubType,Not Required,Social
-Heward’s Hireling Armor,Very Rare,Armor,Leather,Required,Bonus: Armor Class
-Heward's Handy Haversack,Rare,Wondrous Item,No SubType,Not Required,"Utility, Container"
-Hide of the Feral Guardian,Legendary,Armor,Studded Leather,Required,"Bonus: Armor Class, Bonus: Magic"
-Holy Avenger,Legendary,Weapon,Longsword,Required,"Damage: Radiant, Advantage: Saving Throws, Bonus: Magic, Paladin, Damage, Combat, Warding, Versatile"
-Holy Symbol of Ravenkind,Legendary,Wondrous Item,No SubType,Required,"cleric or paladin of good alignment, Control, Bane"
-Hook of Fisher’s Delight,Rare,Wondrous Item,No SubType,Not Required,
-Horn of Blasting,Rare,Wondrous Item,No SubType,Not Required,"Damage: Thunder, Deafened, Damage, Debuff, Combat"
-Horn of Silent Alarm,Common,Wondrous Item,No SubType,Not Required,
-Horn of the Endless Maze,Rare,Wondrous Item,No SubType,Not Required,Summoning
-Horn of Valhalla,Varies,Wondrous Item,No SubType,Not Required,Summoning
-Horned Ring,Very Rare,Ring,No SubType,Required,"Warding, Jewelry"
-Horseshoes of a Zephyr,Very Rare,Wondrous Item,No SubType,Not Required,"Movement, Exploration"
-Horseshoes of Speed,Rare,Wondrous Item,No SubType,Not Required,"Buff, Movement, Exploration"
-Hunter's Coat,Very Rare,Armor,Leather,Required,"Bonus: Armor Class, Combat, Warding"
-Icon of Ravenloft,Legendary,Wondrous Item,No SubType,Required,"Creature of Good Alignment, Healing, Utility"
-Iggwilv's Cauldron,Artifact,Wondrous Item,No SubType,Required,spellcaster
-Illuminator’s Tattoo,Common,Wondrous Item,No SubType,Required,
-Illusionist's Bracers,Very Rare,Wondrous Item,No SubType,Required,"Utility, Combat, Cantrip, spellcaster, Wristwear"
-Imbued Wood Focus,Common,Wondrous Item,No SubType,Required,
-Immovable Rod,Uncommon,Rod,No SubType,Not Required,Utility
-Infernal Puzzle Box,Uncommon,Wondrous Item,No SubType,Not Required,
-Infernal Tack,Legendary,Wondrous Item,No SubType,Required,"creature of evil alignment, Summoning"
-Infiltrator’s Key,Legendary,Wondrous Item,No SubType,Required,"Advantage: Ability Checks, Advantage: Stealth, Proficiency: Thieves' Tools"
-Ingot of the Skold Rune,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Armor Class, Warding"
-Inquisitive’s Goggles,Uncommon,Wondrous Item,No SubType,Required,
-Insignia of Claws,Uncommon,Wondrous Item,No SubType,Not Required,"Bonus: Natural Attacks, Damage: Natural Attacks, Damage, Buff, Combat"
-Instant Fortress,Rare,Wondrous Item,No SubType,Not Required,"Utility, Warding"
-Instrument of Illusions,Common,Wondrous Item,No SubType,Required,
-Instrument of Scribing,Common,Wondrous Item,No SubType,Required,
-Instrument of the Bards,Varies,Wondrous Item,No SubType,Required,"bard, Damage, Control, Buff, Utility, Exploration, Combat, Instrument"
-Ioun Stone,Varies,Wondrous Item,No SubType,Required,"Bonus: Armor Class, Bonus: Strength Score, Bonus: Dexterity Score, Bonus: Constitution Score, Bonus: Intelligence Score, Bonus: Wisdom Score, Bonus: Charisma Score, Bonus: Hit Points, Buff, Detection, Utility, Warding"
-Ioun Stone of Historical Knowledge,Rare,Wondrous Item,No SubType,Required,"Proficiency: History, Buff"
-Ioun Stone of Language Knowledge,Rare,Wondrous Item,No SubType,Required,Buff
-Ioun Stone of Natural Knowledge,Rare,Wondrous Item,No SubType,Required,"Proficiency: Nature, Buff"
-Ioun Stone of Religious Knowledge,Rare,Wondrous Item,No SubType,Required,"Proficiency: Religion, Buff"
-Ioun Stone of Self-Preservation,Rare,Wondrous Item,No SubType,Required,"Bonus: Intelligence Saving Throws, Buff"
-Ioun Stone of Supreme Intellect,Rare,Wondrous Item,No SubType,Required,"Bonus: Intelligence Ability Checks, Buff"
-Ioun Stone of Vitality,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Saving Throws, Healing"
-Irian Rosewood Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
-Iron Bands of Bilarro,Rare,Wondrous Item,No SubType,Not Required,"Control, Utility"
-Iron Bands of Binding,Rare,Wondrous Item,No SubType,Not Required,"Control, Utility"
-Iron Flask,Legendary,Wondrous Item,No SubType,Not Required,Control
-Ironfang,Legendary,Weapon,War Pick,Required,"Damage: Thunder, Resistance: Acid, Sense: Tremorsense, Bonus: Magic, Language: Terran, Damage, Buff, Combat"
-Javelin of Backbiting,Very Rare,Weapon,Javelin,Required,"Damage: Additional, Bonus: Magic, Bonus: Weapon Attack Range, Damage, Buff, Combat, Cursed, Thrown"
-Javelin of Lightning,Uncommon,Weapon,Javelin,Not Required,"Damage: Lightning, Damage, Combat, Thrown"
-Jewel of Three Prayers,Legendary,Wondrous Item,No SubType,Required,"Bonus: Armor Class, Set: Innate Speed (Swimming)"
-Keoghtom's Ointment,Uncommon,Wondrous Item,No SubType,Not Required,"Bonus: Hit Points, Ceases Poison, Cures Diseases, Healing, Consumable"
-Keycharm,Common,Wondrous Item,No SubType,Required,creature with the Mark of Warding
-"Khrusor, Spear of Heliod",Artifact,Weapon,Spear,Required,"Damage: Radiant, Bonus: Magic, Thrown, Versatile"
-Knave’s Eye Patch,Rare,Wondrous Item,No SubType,Required,Advantage: Perception
-Korolnor Scepter,Legendary,Wondrous Item,No SubType,Required,"Bonus: Magic, Teleportation, Damage, Control"
-Kyrzin's Ooze,Very Rare,Wondrous Item,No SubType,Required,"Resistance: Acid, Resistance: Poison, Immunity: Poisoned, Buff, Utility, Symbiotic"
-Kythrian Manchineel Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
-Lamannian Oak Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
-Lantern of Revealing,Uncommon,Wondrous Item,No SubType,Not Required,Detection
-Lantern of Tracking,Common,Wondrous Item,No SubType,Not Required,
-Lash of Shadows,Artifact,Weapon,Whip,Required,"Bonus: Magic, Language: Abyssal, Language: Draconic, Finesse, Reach"
-Last Stand Armor,Very Rare,Armor,Breastplate,Not Required,Bonus: Armor Class
-Leather Golem Armor,Rare,Armor,Leather,Required,"Bonus: Armor Class, Resistance: Lightning"
-Libram of Souls and Flesh,Rare,Wondrous Item,No SubType,Required,wizard
-Lifewell Tattoo,Very Rare,Wondrous Item,No SubType,Required,Resistance: Necrotic
-Lightbringer,Uncommon,Weapon,Mace,Not Required,"Bonus: Magic, Damage, Combat"
-Living Armor,Very Rare,Armor,Plate,Required,"Bonus: Armor Class, Resistance: Necrotic, Resistance: Poison, Resistance: Psychic, Combat, Warding, Symbiotic, Str 15 Required, Stealth Disadvantage"
-Living Gloves,Uncommon,Wondrous Item,No SubType,Required,"Proficiency: Sleight of Hand, Proficiency: Thieves' Tools, Proficiency: Choose a Musical Instrument or Artisan's Tools, Symbiotic"
-Living Loot Satchel,Varies,Wondrous Item,No SubType,Not Required,
-Loadstone,Rare,Wondrous Item,No SubType,Not Required,"Speed Reduction: Impose, Carrying Capacity: Multiplier, Movement, Cursed"
-Lock of Trickery,Common,Wondrous Item,No SubType,Not Required,
-Lord’s Ensemble,Very Rare,Wondrous Item,No SubType,Required,creature with a humanoid build
-Lorehold Primer,Uncommon,Wondrous Item,No SubType,Required,"Bonus: History, Bonus: Religion, spellcaster"
-Lost Crown of Besilmer,Legendary,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Resistance: Psychic, Buff, Warding"
-Luba’s Tarokka of Souls,Artifact,Wondrous Item,No SubType,Required,
-Luck Blade,Legendary,Weapon,No SubType,Required,"Bonus: Saving Throws, Bonus: Magic, Damage, Control, Buff, Combat"
-Luxon Beacon,Legendary,Wondrous Item,No SubType,Not Required,
-Lyre of Building,Rare,Wondrous Item,No SubType,Required,bard
-Mabaran Ebony Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
-Mace of Disruption,Rare,Weapon,Mace,Required,"Damage: Radiant, Damage, Bane"
-Mace of Smiting,Rare,Weapon,Mace,Not Required,"Bonus: Magic, Damage, Combat, Bane"
-Mace of Terror,Rare,Weapon,Mace,Required,"Frightened, Damage, Control, Debuff, Combat"
-Mace of the Black Crown,Artifact,Weapon,Mace,Required,"Damage: Fire, Bonus: Magic, Language: Infernal"
-Mantle of Spell Resistance,Rare,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Warding, Outerwear"
-Manual of Bodily Health,Very Rare,Wondrous Item,No SubType,Not Required,"Bonus: Constitution Score, Bonus: Ability Score Maximum, Buff"
-Manual of Gainful Exercise,Very Rare,Wondrous Item,No SubType,Not Required,"Bonus: Strength Score, Bonus: Ability Score Maximum, Buff"
-Manual of Golems,Very Rare,Wondrous Item,No SubType,Not Required,"Creation, Consumable"
-Manual of Quickness of Action,Very Rare,Wondrous Item,No SubType,Not Required,"Bonus: Dexterity Score, Bonus: Ability Score Maximum, Buff"
-Mariner's Armor,Uncommon,Armor,No SubType,Not Required,"Set: Innate Speed (Swimming), Movement, Exploration, Combat, Warding"
-Marvelous Pigments,Very Rare,Wondrous Item,No SubType,Not Required,"Utility, Consumable"
-Mask of the Beast,Uncommon,Wondrous Item,No SubType,Not Required,Utility
-Mask of the Dragon Queen,Artifact,Wondrous Item,No SubType,Required,"Resistance: Acid, Resistance: Cold, Resistance: Fire, Resistance: Lightning, Resistance: Poison, Bonus: Legendary Resistance, Control, Warding"
-Masque Charm,Common,Wondrous Item,No SubType,Not Required,
-Masquerade Tattoo,Common,Wondrous Item,No SubType,Required,
-Master’s Amulet,Rare,Wondrous Item,No SubType,Not Required,
-"Mastix, Whip of Erebos",Artifact,Weapon,Whip,Required,"Damage: Necrotic, Bonus: Magic, Damage, Combat, Finesse, Reach"
-Matalotok,Legendary,Weapon,Warhammer,Required,"Damage: Cold, Immunity: Cold, Versatile"
-Medal of Muscle,Common,Wondrous Item,No SubType,Not Required,"Advantage: Strength Saving Throws, Advantage: Strength Ability Checks"
-Medal of the Conch,Common,Wondrous Item,No SubType,Not Required,Set: Innate Speed (Swimming)
-Medal of the Horizonback,Common,Wondrous Item,No SubType,Not Required,Bonus: Armor Class
-Medal of the Maze,Common,Wondrous Item,No SubType,Not Required,Advantage: Wisdom Ability Checks
-Medal of the Meat Pie,Common,Wondrous Item,No SubType,Not Required,Bonus: Temporary Hit Points
-Medal of the Wetlands,Common,Wondrous Item,No SubType,Not Required,
-Medal of Wit,Common,Wondrous Item,No SubType,Not Required,"Advantage: Intelligence Saving Throws, Advantage: Intelligence Ability Checks"
-Medallion of Thoughts,Uncommon,Wondrous Item,No SubType,Required,"Social, Detection"
-Mighty Servant of Leuk-o,Artifact,Wondrous Item,No SubType,Required,
-Mind Blade,Rare,Weapon,Longsword,Required,"Damage: Psychic, specific mind flayer or one of its thralls, Damage, Combat, Versatile"
-Mind Carapace Armor,Uncommon,Armor,Plate,Required,"Advantage: Intelligence Saving Throws, Advantage: Wisdom Saving Throws, Advantage: Charisma Saving Throws, Immunity: Frightened, specific individual, Warding, Str 15 Required, Stealth Disadvantage"
-Mind Lash,Rare,Weapon,Whip,Required,"Damage: Psychic, mind flayer, Finesse, Reach"
-Mirror of Life Trapping,Very Rare,Wondrous Item,No SubType,Not Required,"Control, Utility"
-Mirror of the Past,Rare,Wondrous Item,No SubType,Not Required,Utility
-Mithral Armor,Uncommon,Armor,No SubType,Not Required,"Stealth Disadvantage: Remove, Combat, Warding"
-"Mithral Half Plate, +1",Rare,Armor,Half Plate,Not Required,"Bonus: Armor Class, Stealth Disadvantage: Remove, Combat, Warding, Stealth Disadvantage"
-Mizzium Apparatus,Uncommon,Wondrous Item,No SubType,Required,"sorcerer, warlock, or wizard"
-Mizzium Armor,Rare,Armor,Breastplate,Not Required,Immunity: Critical Hits
-Mizzium Mortar,Rare,Wondrous Item,No SubType,Not Required,
-Molten Bronze Skin,Rare,Armor,Breastplate,Required,"Resistance: Fire, Set: Armor Class, Stealth Disadvantage: Remove"
-Moodmark Paint,Common,Wondrous Item,No SubType,Not Required,
-Moon Sickle,Varies,Weapon,Sickle,Required,"Bonus: Spell Attacks, Bonus: Hit Points, Bonus: Magic, Bonus: Spell Save DC, Bonus to attacks, spell attacks, and spell save DCs for druids and rangers. Also gives bonus to healing spells., druid or ranger, Light"
-Moonblade,Legendary,Weapon,Longsword,Required,"Elf or Half-Elf of Neutral Good Alignment, Damage, Buff, Combat, Sentient, Versatile"
-Moon-Touched Sword,Common,Weapon,Greatsword,Not Required,"Utility, Heavy, Two-Handed"
-Mummy Rot Antidote,Uncommon,Potion,No SubType,Not Required,
-Murgaxor’s Orb,Legendary,Wondrous Item,No SubType,Required,
-Mystery Key,Common,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
-Nature’s Mantle,Uncommon,Wondrous Item,No SubType,Required,druid or ranger
-Navigation Orb,Very Rare,Wondrous Item,No SubType,Required,"Control, Exploration"
-Necklace of Adaptation,Uncommon,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Buff, Warding, Jewelry"
-Necklace of Fireballs,Rare,Wondrous Item,No SubType,Not Required,"Damage, Combat, Jewelry"
-Necklace of Prayer Beads,Rare,Wondrous Item,No SubType,Required,"Cleric, Druid, or Paladin, Healing, Summoning, Damage, Buff, Movement, Jewelry"
-Needle of Mending,Rare,Weapon,Dagger,Required,"Bonus: Magic, Damage, Combat, Finesse, Light, Thrown"
-Nepenthe,Legendary,Weapon,Longsword,Required,"Damage: Radiant, Advantage: Saving Throws, Bonus: Magic, Paladin, Damage, Combat, Warding, Versatile"
-Nether Scroll of Azumar,Legendary,Scroll,No SubType,Not Required,"Advantage: Saving Throws, Bonus: Ability Score Maximum, Stacking Bonus: Intelligence Score"
-Night Caller,Uncommon,Wondrous Item,No SubType,Not Required,"Summoning, Control"
-Nightfall Pearl,Legendary,Wondrous Item,No SubType,Required,
-Nine Lives Stealer,Very Rare,Weapon,Longsword,Required,"Bonus: Magic, Damage, Combat, Versatile"
-Nolzur's Marvelous Pigments,Very Rare,Wondrous Item,No SubType,Not Required,"Utility, Consumable"
-Oathbow,Very Rare,Weapon,Longbow,Required,"Damage: Piercing, Damage, Combat, Bane, Ammunition, Heavy, Range, Two-Handed"
-Obsidian Flint Dragon Plate,Legendary,Armor,Plate,Not Required,"Bonus: Armor Class, Advantage: Saving Throws, Advantage: Athletics, Advantage: Acrobatics, Resistance: Poison, Str 15 Required, Stealth Disadvantage"
-Obviator’s Lenses,Varies,Wondrous Item,No SubType,Not Required,
-Occultant Abacus,Varies,Wondrous Item,No SubType,Not Required,
-Oil of Etherealness,Rare,Potion,No SubType,Not Required,"Movement, Utility, Consumable"
-Oil of Sharpness,Very Rare,Potion,No SubType,Not Required,"Bonus: Magic, Damage, Buff, Combat, Consumable"
-Oil of Slipperiness,Uncommon,Potion,No SubType,Not Required,"Control, Movement, Utility, Consumable"
-Opal of the Ild Rune,Rare,Wondrous Item,No SubType,Required,"Resistance: Cold, Damage, Warding"
-Orb of Direction,Common,Wondrous Item,No SubType,Not Required,Exploration
-Orb of Dragonkind,Artifact,Wondrous Item,No SubType,Required,"Healing, Summoning, Control, Scrying, Detection"
-Orb of Gonging,Common,Wondrous Item,No SubType,Not Required,Utility
-Orb of Shielding,Common,Wondrous Item,No SubType,Required,"Warding, Focus"
-Orb of the Stein Rune,Rare,Wondrous Item,No SubType,Required,"Immunity: Petrified, Movement, Warding"
-Orb of the Veil,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Wisdom Score, Advantage: Wisdom Ability Checks, Sense: Darkvision, Bonus: Ability Score Maximum"
-Orb of Time,Common,Wondrous Item,No SubType,Not Required,Exploration
-Orc Stone,Uncommon,Wondrous Item,No SubType,Required,recipient only
-Orcsplitter,Legendary,Weapon,Greataxe,Required,"Immunity: Frightened, Bonus: Magic, Good-Aligned Dwarf, Fighter, or Paladin, Damage, Combat, Warding, Sentient, Heavy, Two-Handed"
-Orcus Figurine,Unknown Rarity,Wondrous Item,No SubType,Not Required,
-Ornithopter of Flying,Very Rare,Wondrous Item,No SubType,Not Required,Set: Speed (Flying)
-Orrery of the Wanderer,Artifact,Wondrous Item,No SubType,Required,Bonus: Armor Class
-Outer Essence Shard,Rare,Wondrous Item,No SubType,Required,"Damage: Necrotic, Bonus: Temporary Hit Points, sorcerer"
-Paper Bird,Uncommon,Wondrous Item,No SubType,Not Required,
-Pariah’s Shield,Rare,Armor,Shield,Required,
-Pearl of Power,Uncommon,Wondrous Item,No SubType,Required,"Spellcaster, Buff, Utility"
-Pennant of the Vind Rune,Very Rare,Wondrous Item,No SubType,Required,"Buff, Movement"
-Peregrine Mask,Very Rare,Wondrous Item,No SubType,Required,"Set: Innate Speed (Flying), Advantage: Initiative"
-Perfume of Bewitching,Common,Wondrous Item,No SubType,Not Required,"Buff, Social"
-Periapt of Health,Uncommon,Wondrous Item,No SubType,Not Required,"Immunity: Disease, Immunity: Disease, Warding, Jewelry"
-Periapt of Proof against Poison,Rare,Wondrous Item,No SubType,Not Required,"Immunity: Poison, Immunity: Poisoned, Warding, Jewelry"
-Periapt of Wound Closure,Uncommon,Wondrous Item,No SubType,Required,"Healing, Warding, Jewelry"
-Philter of Love,Uncommon,Potion,No SubType,Not Required,"Charmed, Control, Consumable"
-Piercer,Rare,Weapon,Shortsword,Required,"Bonus: Magic, Damage, Combat, Finesse, Light"
-Pipe of Remembrance,Common,Wondrous Item,No SubType,Not Required,Utility
-Pipe of Smoke Monsters,Common,Wondrous Item,No SubType,Not Required,Social
-Pipes of Haunting,Uncommon,Wondrous Item,No SubType,Not Required,"Frightened, Control, Instrument"
-Pipes of the Sewers,Uncommon,Wondrous Item,No SubType,Required,"Summoning, Control, Instrument"
-Piwafwi (Cloak of Elvenkind),Uncommon,Wondrous Item,No SubType,Required,"Advantage: Stealth, Deception"
-Piwafwi of Fire Resistance,Rare,Wondrous Item,No SubType,Required,"Advantage: Stealth, Resistance: Fire, Deception, Warding"
-Pixie Dust,Uncommon,Wondrous Item,No SubType,Not Required,Set: Speed (Flying)
-Planecaller’s Codex,Rare,Wondrous Item,No SubType,Required,wizard
-Plate Armor of Etherealness,Legendary,Armor,Plate,Required,"Utility, Combat, Warding, Str 15 Required, Stealth Disadvantage"
-Platinum Scarf,Legendary,Wondrous Item,No SubType,Required,
-Pole of Angling,Common,Wondrous Item,No SubType,Not Required,Utility
-Pole of Collapsing,Common,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
-Polymorph Blade,Very Rare,Weapon,No SubType,Required,
-Portable Hole,Rare,Wondrous Item,No SubType,Not Required,"Utility, Container"
-Portfolio Keeper,Varies,Wondrous Item,No SubType,Not Required,
-Pot of Awakening,Common,Wondrous Item,No SubType,Not Required,
-Potion of Advantage,Uncommon,Potion,No SubType,Not Required,"Advantage: Saving Throws, Advantage: Ability Checks, Advantage: Melee Attacks, Advantage: Ranged Attacks"
-Potion of Animal Friendship,Uncommon,Potion,No SubType,Not Required,"Control, Communication, Consumable"
-Potion of Aqueous Form,Rare,Potion,No SubType,Not Required,"Shapechanging, Consumable"
-Potion of Clairvoyance,Rare,Potion,No SubType,Not Required,"Scrying, Detection, Consumable"
-Potion of Climbing,Common,Potion,No SubType,Not Required,"Advantage: Athletics, Set: Innate Speed (Climbing), Buff, Movement, Consumable"
-Potion of Comprehension,Common,Potion,No SubType,Not Required,Consumable
-Potion of Diminution,Rare,Potion,No SubType,Not Required,"Control, Utility, Consumable"
-Potion of Dragon's Majesty,Legendary,Potion,No SubType,Not Required,
-Potion of Fire Breath,Uncommon,Potion,No SubType,Not Required,"Damage: Fire, Damage"
-Potion of Flying,Very Rare,Potion,No SubType,Not Required,"Set: Innate Speed (Flying), Movement, Utility, Consumable"
-Potion of Gaseous Form,Rare,Potion,No SubType,Not Required,"Movement, Utility, Warding, Consumable"
-Potion of Giant Size,Legendary,Potion,No SubType,Not Required,"Buff, Shapechanging"
-Potion of Giant Strength,Varies,Potion,No SubType,Not Required,"Set: Strength Score, Buff, Consumable"
-Potion of Growth,Uncommon,Potion,No SubType,Not Required,"Control, Utility, Consumable"
-Potion of Healing,Common,Potion,No SubType,Not Required,"Bonus: Hit Points, Healing, Consumable"
-Potion of Heroism,Rare,Potion,No SubType,Not Required,"Bonus: Temporary Hit Points, Healing, Buff, Consumable"
-Potion of Invisibility,Very Rare,Potion,No SubType,Not Required,"Invisible, Deception, Consumable"
-Potion of Invulnerability,Rare,Potion,No SubType,Not Required,"Resistance: All, Warding, Consumable"
-Potion of Longevity,Very Rare,Potion,No SubType,Not Required,"Reduces Physical Age, Control, Buff, Consumable"
-Potion of Maximum Power,Rare,Potion,No SubType,Not Required,
-Potion of Mind Control,Varies,Potion,No SubType,Not Required,"Control, Consumable"
-Potion of Mind Reading,Rare,Potion,No SubType,Not Required,"Control, Detection, Consumable"
-Potion of Poison,Uncommon,Potion,No SubType,Not Required,"Consumable, Cursed"
-Potion of Possibility,Very Rare,Potion,No SubType,Not Required,
-Potion of Resistance,Uncommon,Potion,No SubType,Not Required,"Resistance: Acid, Resistance: Cold, Resistance: Fire, Resistance: Force, Resistance: Lightning, Resistance: Necrotic, Resistance: Poison, Resistance: Psychic, Resistance: Radiant, Resistance: Thunder, Warding, Consumable"
-Potion of Speed,Very Rare,Potion,No SubType,Not Required,"Buff, Movement, Consumable"
-Potion of Vitality,Very Rare,Potion,No SubType,Not Required,"Cures Disease, Removes Poison, Max HP from Hit Dice, Healing, Consumable"
-Potion of Watchful Rest,Common,Potion,No SubType,Not Required,Consumable
-Potion of Water Breathing,Uncommon,Potion,No SubType,Not Required,"Breathe Underwater, Buff, Utility, Consumable"
-Powered Armor,Legendary,Armor,Plate,Required,"Bonus: Armor Class, Set: Strength Score, Advantage: Death Saving Throws, Str 15 Required, Stealth Disadvantage"
-Pressure Capsule,Common,Wondrous Item,No SubType,Not Required,"Utility, Exploration, Consumable"
-Prismari Primer,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Acrobatics, Bonus: Performance, spellcaster"
-Professor Orb,Rare,Wondrous Item,No SubType,Not Required,"Utility, Sentient"
-Professor Skant,Rare,Wondrous Item,No SubType,Not Required,"Utility, Sentient"
-Propeller Helm,Uncommon,Wondrous Item,No SubType,Required,Small humanoid
-Prosthetic Limb,Common,Wondrous Item,No SubType,Not Required,
-Protective Verses,Rare,Wondrous Item,No SubType,Required,wizard
-Psi Crystal,Uncommon,Wondrous Item,No SubType,Required,"Language: Telepathy, creature with an Intelligence score of 3 or higher"
-Pyroconverger,Uncommon,Wondrous Item,No SubType,Required,
-Pyxis of Pandemonium,Legendary,Wondrous Item,No SubType,Not Required,"Buff, Cursed"
-Quaal's Feather Token,Rare,Wondrous Item,No SubType,Not Required,"Creation, Summoning, Damage, Control, Movement, Utility, Exploration, Combat, Consumable"
-Quandrix Primer,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Arcana, Bonus: Nature, spellcaster"
-Quiver of Ehlonna,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Container"
-Radiance,Unknown Rarity,Wand,No SubType,Required,"Bonus: Spell Attacks, Spellcaster, Buff, Combat"
-Rakdos Riteknife,Legendary,Weapon,Dagger,Required,"Damage: Necrotic, Bonus: Magic, Finesse, Light, Thrown"
-Red Dragon Mask,Legendary,Wondrous Item,No SubType,Required,"Advantage: Charisma Ability Checks, Resistance: Fire, Sense: Blindsight, Sense: Darkvision, Language: Draconic, Bonus: Unarmored Armor Class, Buff"
-Reincarnation Dust,Very Rare,Wondrous Item,No SubType,Not Required,
-Restorative Ointment,Uncommon,Wondrous Item,No SubType,Not Required,"Bonus: Hit Points, Ceases Poison, Cures Diseases, Healing, Consumable"
-Reveler’s Concertina,Rare,Wondrous Item,No SubType,Required,"Bonus: Spell Save DC, bard"
-Revenant Double-Bladed Scimitar,Unknown Rarity,Weapon,Double-Bladed Scimitar,Not Required,"Bonus: Armor Class, Weapon Property: Finesse, Damage, Combat, Special, Two-Handed"
-Rhythm-Maker’s Drum,Varies,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Bonus: Spell Save DC, bard"
-Ring of Air Elemental Command,Legendary,Ring,No SubType,Required,"Resistance: Lightning, Set: Innate Speed (Flying), Control, Movement, Warding, Jewelry"
-Ring of Animal Influence,Rare,Ring,No SubType,Not Required,"Control, Communication, Utility, Jewelry"
-Ring of Djinni Summoning,Legendary,Ring,No SubType,Required,"Summoning, Control, Jewelry"
-Ring of Earth Elemental Command,Legendary,Ring,No SubType,Required,"Resistance: Acid, Control, Movement, Warding, Jewelry"
-Ring of Elemental Command,Legendary,Wondrous Item,No SubType,Required,"Control, Movement, Warding, Jewelry"
-Ring of Evasion,Rare,Ring,No SubType,Required,"Warding, Jewelry"
-Ring of Feather Falling,Rare,Ring,No SubType,Required,"Movement, Warding, Jewelry"
-Ring of Fire Elemental Command,Legendary,Ring,No SubType,Required,"Resistance: Fire, Immunity: Fire, Damage, Control, Warding, Jewelry"
-Ring of Free Action,Rare,Ring,No SubType,Required,"Negates Difficult Terrain, Magical Speed Reduction, Immune: Paralyzed or Restrained (Magical Sources), Movement, Warding, Jewelry"
-Ring of Invisibility,Legendary,Ring,No SubType,Required,"Invisible, Deception, Jewelry"
-Ring of Jumping,Uncommon,Ring,No SubType,Required,"Buff, Movement, Jewelry"
-Ring of Mind Shielding,Uncommon,Ring,No SubType,Required,"Deception, Warding, Jewelry"
-Ring of Obscuring,Uncommon,Ring,No SubType,Required,
-Ring of Protection,Rare,Ring,No SubType,Required,"Bonus: Armor Class, Bonus: Saving Throws, Warding, Jewelry"
-Ring of Red Fury,Very Rare,Ring,No SubType,Required,Set: Innate Speed (Swimming)
-Ring of Regeneration,Very Rare,Ring,No SubType,Required,"Regain 1d6 Hit Points Every 10 Minutes, Regrow Lost Body Parts, Healing, Jewelry"
-Ring of Resistance,Rare,Ring,No SubType,Required,"Resistance: Acid, Resistance: Cold, Resistance: Fire, Resistance: Force, Resistance: Lightning, Resistance: Necrotic, Resistance: Poison, Resistance: Psychic, Resistance: Radiant, Resistance: Thunder, Warding, Jewelry"
-Ring of Shooting Stars,Very Rare,Ring,No SubType,Required,"Damage, Utility, Combat, Jewelry"
-Ring of Spell Storing,Rare,Ring,No SubType,Required,"Buff, Utility, Jewelry"
-Ring of Spell Turning,Legendary,Ring,No SubType,Required,"Advantage: Saving Throws, Warding, Jewelry"
-Ring of Swimming,Uncommon,Ring,No SubType,Not Required,"Set: Innate Speed (Swimming), Movement, Jewelry"
-Ring of Telekinesis,Very Rare,Ring,No SubType,Required,"Control, Utility, Jewelry"
-Ring of Temporal Salvation,Rare,Ring,No SubType,Required,
-Ring of the Ram,Rare,Ring,No SubType,Required,"Damage: Force, Damage, Control, Combat, Jewelry"
-Ring of Three Wishes,Legendary,Ring,No SubType,Not Required,"Buff, Utility, Consumable, Jewelry"
-Ring of Truth Telling,Uncommon,Ring,No SubType,Required,Advantage: Insight
-Ring of Warmth,Uncommon,Ring,No SubType,Required,"Resistance: Cold, Exploration, Warding, Jewelry"
-Ring of Water Elemental Command,Legendary,Ring,No SubType,Required,"Set: Innate Speed (Swimming), Walk on Liquid Surfaces, Breathe Underwater, Control, Buff, Movement, Jewelry"
-Ring of Water Walking,Uncommon,Ring,No SubType,Not Required,"Walk on Liquid Surfaces, Movement, Jewelry"
-Ring of Winter,Artifact,Ring,No SubType,Required,"Immunity: Cold, Control, Buff, Utility, Deception, Warding, Sentient"
-Ring of X-ray Vision,Rare,Ring,No SubType,Required,"See Into and Through Solid Matter Within 30 Feet, Detection, Utility, Jewelry"
-Rings of Shared Suffering,Uncommon,Ring,No SubType,Required,
-Risian Pine Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
-Robe of Eyes,Rare,Wondrous Item,No SubType,Required,"Advantage: Perception, Set Base: Darkvision, See Invisible (and into Ethereal Plane) within 120 ft., Detection, Outerwear"
-Robe of Scintillating Colors,Very Rare,Wondrous Item,No SubType,Required,"Stunned, Control, Debuff, Outerwear"
-Robe of Serpents,Uncommon,Wondrous Item,No SubType,Required,Summoning
-Robe of Stars,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Saving Throws, Teleportation, Damage, Combat, Warding, Outerwear"
-Robe of Summer,Rare,Wondrous Item,No SubType,Required,"Resistance: Cold, Buff"
-Robe of the Archmagi,Legendary,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Advantage: Saving Throws, Bonus: Spell Save DC, Set: Unarmored Armor Class, sorcerer, warlock, or wizard, Buff, Warding, Outerwear"
-Robe of Useful Items,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Outerwear"
-Rod of Absorption,Very Rare,Rod,No SubType,Required,"Utility, Warding"
-Rod of Alertness,Very Rare,Rod,No SubType,Required,"Advantage: Perception, Advantage: Initiative, Bonus: Passive Perception, Detection, Utility, Warding"
-Rod of Lordly Might,Legendary,Rod,No SubType,Required,"Damage, Control, Utility, Exploration, Combat"
-Rod of Resurrection,Legendary,Rod,No SubType,Required,"cleric, druid, or paladin, Healing"
-Rod of Retribution,Uncommon,Rod,No SubType,Required,
-Rod of Rulership,Rare,Rod,No SubType,Required,"Charmed, Control"
-Rod of Security,Very Rare,Rod,No SubType,Not Required,"Healing, Teleportation, Utility"
-Rod of the Pact Keeper,Varies,Rod,No SubType,Required,"Bonus: Warlock Spell Attacks, Bonus: Warlock Spell Save DC, Warlock, Buff"
-Rod of the Vonindod,Rare,Rod,No SubType,Required,Detection
-Rope of Climbing,Uncommon,Wondrous Item,No SubType,Not Required,"Advantage: Athletics, Movement, Utility, Exploration"
-Rope of Entanglement,Rare,Wondrous Item,No SubType,Not Required,"Restrained, Control"
-Rope of Mending,Common,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
-Rotor of Return,Very Rare,Wondrous Item,No SubType,Required,Bonus: Constitution Saving Throws
-Ruby of the War Mage,Common,Wondrous Item,No SubType,Required,spellcaster
-Ruby Weave Gem,Legendary,Wondrous Item,No SubType,Required,Spellcaster
-Ruidium Armor,Very Rare,Armor,No SubType,Required,"Resistance: Psychic, Set: Innate Speed (Swimming)"
-Ruidium Shield,Very Rare,Armor,Shield,Required,"Resistance: Psychic, Set: Innate Speed (Swimming)"
-Ruidium Weapon,Very Rare,Weapon,No SubType,Required,"Damage: Psychic, Set: Innate Speed (Swimming)"
-Ruinblade,Legendary,Weapon,Greatsword,Required,"Damage: Force, Bonus: Magic, Heavy, Two-Handed"
-Ruin's Wake,Artifact,Weapon,Spear,Required,"Bonus: Magic, Language: Orc, Language: Abyssal, Thrown, Versatile"
-Ruinstone,Artifact,Wondrous Item,No SubType,Not Required,
-Saddle of the Cavalier,Uncommon,Wondrous Item,No SubType,Not Required,"Can't be Dismounted Against Your Will, Movement, Warding"
-Saint Markovia’s Thighbone,Rare,Weapon,Mace,Required,"Damage: Radiant, Damage, Combat"
-Sapphire Buckler,Very Rare,Armor,Shield,Required,"Resistance: Psychic, Resistance: Thunder"
-Scaled Ornament,Varies,Wondrous Item,No SubType,Required,"Bonus: Armor Class, Advantage: Saving Throws, Set: Innate Speed (Flying), Immunity: Charmed, Immunity: Frightened"
-Scarab of Protection,Legendary,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Warding, Consumable, Jewelry"
-Scimitar of Speed,Very Rare,Weapon,Scimitar,Required,"Bonus: Magic, Extra Attack as Bonus Action, Damage, Combat, Finesse, Light"
-Scissors of Shadow Snipping,Rare,Wondrous Item,No SubType,Required,Fey or a Spellcaster
-Scorpion Armor,Rare,Armor,Plate,Required,"Bonus: Initiative, Buff, Cursed, Str 15 Required, Stealth Disadvantage"
-Scribe’s Pen,Common,Wondrous Item,No SubType,Required,creature with the Mark of Scribing
-Scroll of Protection,Rare,Scroll,No SubType,Not Required,Warding
-Scroll of Tarrasque Summoning,Legendary,Scroll,No SubType,Not Required,
-Scroll of the Comet,Legendary,Scroll,No SubType,Not Required,"Damage, Consumable"
-Seeker Dart,Uncommon,Weapon,Dart,Not Required,"Damage: Lightning, Damage, Control, Finesse, Thrown"
-Sekolahian Worshiping Statuette,Common,Wondrous Item,No SubType,Not Required,
-Sending Stone,Uncommon,Wondrous Item,No SubType,Not Required,
-Sending Stones,Uncommon,Wondrous Item,No SubType,Not Required,Communication
-Sentinel Shield,Uncommon,Armor,Shield,Not Required,"Advantage: Perception, Advantage: Initiative, Bonus: Passive Perception, Detection, Warding"
-Serpent Scale Armor,Uncommon,Armor,Scale Mail,Not Required,"Set: AC Max Dex Modifier, Stealth Disadvantage"
-Serpent’s Fang,Rare,Weapon,Longsword,Not Required,"Damage: Poison, Versatile"
-Shadowfell Brand Tattoo,Rare,Wondrous Item,No SubType,Required,"Advantage: Stealth, Sense: Darkvision"
-Shadowfell Shard,Rare,Wondrous Item,No SubType,Required,sorcerer
-Shard of the Ise Rune,Very Rare,Wondrous Item,No SubType,Required,"Resistance: Fire, Damage, Control, Warding"
-Shatterspike,Uncommon,Weapon,Longsword,Required,"Bonus: Magic, Damage, Buff, Combat, Versatile"
-Shavarran Birch Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
-Shield Guardian Amulet,Rare,Wondrous Item,No SubType,Required,humanoid
-Shield of Expression,Common,Armor,Shield,Not Required,Social
-Shield of Far Sight,Rare,Armor,Shield,Not Required,
-Shield of Missile Attraction,Rare,Armor,Shield,Required,"Resistance: Ranged Attacks, Warding, Cursed"
-Shield of the Hidden Lord,Legendary,Armor,Shield,Required,"Bonus: Armor Class, Resistance: Fire"
-Shield of the Uven Rune,Very Rare,Armor,Shield,Required,"Immunity: Cold, Damage, Warding"
-"Shield, +1",Uncommon,Armor,Shield,Not Required,"Bonus: Armor Class, Combat, Warding"
-"Shield, +2",Rare,Armor,Shield,Not Required,"Bonus: Armor Class, Combat, Warding"
-"Shield, +3",Very Rare,Armor,Shield,Not Required,"Bonus: Armor Class, Combat, Warding"
-Shiftweave,Common,Wondrous Item,No SubType,Not Required,
-Silken Spite,Artifact,Weapon,Rapier,Required,"Sense: Darkvision, Set: Innate Speed (Climbing), Bonus: Magic, Language: Elvish, Language: Abyssal, Language: Undercommon, Finesse"
-Silverquill Primer,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Intimidation, Bonus: Persuasion, spellcaster"
-Siren Song Lyre,Rare,Wondrous Item,No SubType,Required,
-Skyblinder Staff,Uncommon,Staff,No SubType,Required,"Bonus: Spell Attacks, Bonus: Magic"
-Sling Bullets of Althemone,Very Rare,Weapon,No SubType,Not Required,Bonus: Magic
-Slippers of Spider Climbing,Uncommon,Wondrous Item,No SubType,Required,"Set: Innate Speed (Climbing), Movement, Footwear"
-Smokepowder,Uncommon,Wondrous Item,No SubType,Not Required,
-Smoldering Armor,Common,Armor,Hide,Not Required,
-Snicker-Snack,Legendary,Weapon,Greatsword,Required,"Proficiency: Greatsword, Bonus: Magic, Bonus: Magic Item Attack With Charisma, Non-evil Creature, Heavy, Two-Handed"
-Soul Coin,Uncommon,Wondrous Item,No SubType,Not Required,
-Sovereign Glue,Legendary,Wondrous Item,No SubType,Not Required,"Utility, Consumable"
-Speaking Stone,Very Rare,Wondrous Item,No SubType,Not Required,Communication
-Spear of Backbiting,Very Rare,Weapon,Spear,Required,"Damage: Additional, Bonus: Magic, Bonus: Weapon Attack Range, Damage, Buff, Combat, Cursed, Thrown, Versatile"
-Spell Bottle,Legendary,Wondrous Item,No SubType,Required,
-Spell Gem,Varies,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem , Utility"
-Spell Gem (Amber),Very Rare,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
-Spell Gem (Bloodstone),Rare,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
-Spell Gem (Diamond),Legendary,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
-Spell Gem (Jade),Very Rare,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
-Spell Gem (Lapis Lazuli),Uncommon,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
-Spell Gem (Obsidian),Uncommon,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
-Spell Gem (Quartz),Rare,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
-Spell Gem (Ruby),Legendary,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
-Spell Gem (Star Ruby),Legendary,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
-Spell Gem (Topaz),Very Rare,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
-Spell Scroll,Varies,Scroll,No SubType,Not Required,"Utility, Consumable"
-Spellguard Shield,Very Rare,Armor,Shield,Required,"Advantage: Saving Throws, Combat, Warding"
-Spellshard,Common,Wondrous Item,No SubType,Not Required,
-Spellwrought Tattoo,Varies,Wondrous Item,No SubType,Not Required,
-Sphere of Annihilation,Legendary,Wondrous Item,No SubType,Not Required,"Damage: Force, Damage, Control, Combat"
-Spider Staff,Rare,Staff,No SubType,Required,"Damage: Poison, Damage, Combat"
-Spies’ Murmur,Uncommon,Wondrous Item,No SubType,Required,
-Spyglass of Clairvoyance,Common,Wondrous Item,No SubType,Not Required,
-Staff of Adornment,Common,Staff,No SubType,Not Required,
-Staff of Birdcalls,Common,Staff,No SubType,Not Required,Utility
-Staff of Charming,Rare,Staff,No SubType,Required,"Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard, Control, Communication"
-Staff of Defense,Rare,Staff,No SubType,Required,"Bonus: Armor Class, Buff, Warding"
-Staff of Dunamancy,Very Rare,Staff,No SubType,Required,wizard
-Staff of Fate,Very Rare,Staff,Quarterstaff,Required,"Bonus: Magic, Versatile"
-Staff of Fire,Very Rare,Staff,No SubType,Required,"Resistance: Fire, Druid, Sorcerer, Warlock, or Wizard, Damage, Control, Combat, Warding"
-Staff of Flowers,Common,Staff,No SubType,Not Required,Social
-Staff of Frost,Very Rare,Staff,No SubType,Required,"Resistance: Cold, Druid, Sorcerer, Warlock, or Wizard, Damage, Control, Combat, Warding"
-Staff of Healing,Rare,Staff,No SubType,Required,"Bard, Cleric, or Druid, Healing"
-Staff of Power,Very Rare,Staff,No SubType,Required,"Bonus: Armor Class, Bonus: Saving Throws, Bonus: Spell Attacks, Damage: Force, Bonus: Magic, Sorcerer, Warlock, or Wizard, Damage, Control, Combat, Warding"
-Staff of Striking,Very Rare,Staff,No SubType,Required,"Damage: Force, Bonus: Magic, Damage, Combat"
-Staff of Swarming Insects,Rare,Staff,No SubType,Required,"Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard, Summoning, Control"
-Staff of the Adder,Uncommon,Staff,No SubType,Required,"cleric, druid, or warlock, Summoning, Damage"
-Staff of the Forgotten One,Artifact,Staff,No SubType,Required,"Damage: Necrotic, Immunity: Blinded, Immunity: Charmed, Immunity: Deafened, Immunity: Frightened, Immunity: Petrified, Immunity: Stunned, Bonus: Magic, sorcerer, warlock, or wizard, Damage, Buff, Combat, Cursed"
-Staff of the Ivory Claw,Rare,Staff,No SubType,Required,"Bonus: Spell Attacks, spellcaster"
-Staff of the Magi,Legendary,Staff,No SubType,Required,"Bonus: Spell Attacks, Advantage: Saving Throws, Bonus: Magic, Sorcerer, Warlock, or Wizard, Damage, Control, Detection, Combat, Deception, Warding"
-Staff of the Python,Uncommon,Staff,No SubType,Required,"Cleric, Druid, or Warlock, Summoning, Control"
-Staff of the Woodlands,Rare,Staff,No SubType,Required,"Bonus: Spell Attacks, Bonus: Magic, Druid, Creation, Control, Communication, Detection, Warding"
-Staff of Thunder and Lightning,Very Rare,Staff,No SubType,Required,"Bonus: Magic, Deafened, Stunned, Damage, Control, Debuff, Combat"
-Staff of Withering,Rare,Staff,No SubType,Required,"Damage: Necrotic, Cleric, Druid, or Warlock, Damage, Debuff, Combat"
-Steel,Very Rare,Weapon,Longsword,Required,"Bonus: Magic, Good-aligned Creature, Versatile"
-Stone of Controlling Earth Elementals,Rare,Wondrous Item,No SubType,Not Required,Summoning
-Stone of Golorr,Artifact,Wondrous Item,No SubType,Required,
-Stone of Good Luck (Luckstone),Uncommon,Wondrous Item,No SubType,Required,"Bonus: Saving Throws, Bonus: Ability Checks, Bonus: Initiative, Buff"
-Stone of Ill Luck,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Saving Throws, Bonus: Ability Checks, Bonus: Initiative, Cursed"
-Stonespeaker Crystal,Rare,Wondrous Item,No SubType,Required,"Advantage: Investigation, Bonus: Passive Investigation, Communication, Detection"
-Stonky’s ring,Unknown Rarity,Ring,No SubType,Required,"Control, Utility, Jewelry"
-Storm Boomerang,Uncommon,Weapon,Boomerang,Not Required,"Damage: Thunder, Stunned, Damage, Range"
-Stormgirdle,Legendary,Wondrous Item,No SubType,Required,"Resistance: Lightning, Resistance: Thunder, Set: Strength Score"
-Strixhaven Pennant,Common,Wondrous Item,No SubType,Not Required,
-Sun Blade,Rare,Weapon,Longsword,Required,"Damage: Radiant, Bonus: Magic, Weapon Property: Finesse, Replace Damage Type: Radiant, Damage, Combat, Versatile"
-Sunforger,Rare,Weapon,Warhammer,Required,"Bonus: Magic, Versatile"
-Sunsword,Legendary,Weapon,Longsword,Required,"Damage: Radiant, Bonus: Magic, Weapon Property: Finesse, Replace Damage Type: Radiant, Damage, Combat, Versatile"
-Sword of Answering,Legendary,Weapon,Longsword,Required,"Bonus: Magic, creature with the same alignment as the sword, Damage, Control, Combat, Versatile"
-Sword of Kas,Artifact,Weapon,Longsword,Required,"Bonus: Initiative, Bonus: Magic, Damage, Buff, Debuff, Combat, Cursed, Versatile"
-Sword of Life Stealing,Rare,Weapon,No SubType,Required,"Damage: Necrotic, Bonus: Temporary Hit Points, Healing, Damage, Combat"
-Sword of Sharpness,Very Rare,Weapon,No SubType,Required,"Damage: Slashing, Damage, Combat"
-Sword of the Paruns,Very Rare,Weapon,Longsword,Required,"Bonus: Magic, Versatile"
-Sword of Vengeance,Uncommon,Weapon,No SubType,Required,"Bonus: Magic, Damage, Combat, Cursed"
-Sword of Wounding,Rare,Weapon,No SubType,Required,"Damage: Necrotic, Damage, Combat"
-Sword of Zariel,Artifact,Weapon,Longsword,Required,"Damage: Radiant, Advantage: Insight, Resistance: Necrotic, Resistance: Radiant, Sense: Truesight, Set: Charisma Score, Language: Celestial, Set: Speed (Flying), creature the sword deems worthy, Versatile"
-Talisman of Pure Good,Legendary,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Creature of Good Alignment, Control, Buff, Jewelry"
-Talisman of the Sphere,Legendary,Wondrous Item,No SubType,Required,"Control, Buff, Utility"
-Talisman of Ultimate Evil,Legendary,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Creature of Evil Alignment, Control, Buff, Jewelry"
-Talking Doll,Common,Wondrous Item,No SubType,Required,Social
-Tankard of Plenty,Common,Wondrous Item,No SubType,Not Required,
-Tankard of Sobriety,Common,Wondrous Item,No SubType,Not Required,Social
-Teeth of Dahlver-Nar,Artifact,Wondrous Item,No SubType,Required,
-Teleportation Tablet,Rare,Wondrous Item,No SubType,Not Required,
-Tentacle Rod,Rare,Rod,No SubType,Required,"Damage: Bludgeoning, Damage, Control, Debuff"
-The Bloody End,Artifact,Weapon,Morningstar,Required,"Advantage: Intimidation, Bonus: Magic, Language: Infernal"
-The Codicil of White,Unknown Rarity,Wondrous Item,No SubType,Not Required,Resistance: Cold
-The Infernal Machine of Lum the Mad,Artifact,Wondrous Item,No SubType,Required,
-Thermal Cube,Common,Wondrous Item,No SubType,Not Required,
-Thessaltoxin Antidote,Uncommon,Potion,No SubType,Not Required,
-Timepiece of Travel,Very Rare,Wondrous Item,No SubType,Required,Bonus: Dexterity Saving Throws
-Tinderstrike,Legendary,Weapon,Dagger,Required,"Damage: Fire, Resistance: Fire, Bonus: Magic, Language: Ignan, Damage, Buff, Combat, Finesse, Light, Thrown"
-Tome of Clear Thought,Very Rare,Wondrous Item,No SubType,Not Required,"Bonus: Intelligence Score, Bonus: Ability Score Maximum, Buff"
-Tome of Leadership and Influence,Very Rare,Wondrous Item,No SubType,Not Required,"Bonus: Charisma Score, Bonus: Ability Score Maximum, Buff"
-Tome of the Stilled Tongue,Legendary,Wondrous Item,No SubType,Required,"wizard, Utility"
-Tome of Understanding,Very Rare,Wondrous Item,No SubType,Not Required,"Bonus: Wisdom Score, Bonus: Ability Score Maximum, Buff"
-Travel Alchemical Kit,Uncommon,Wondrous Item,No SubType,Not Required,Proficiency: Poisoner's Kit
-Trident of Fish Command,Uncommon,Weapon,Trident,Required,"Damage, Control, Combat, Thrown, Versatile"
-Two-Birds Sling,Rare,Weapon,Sling,Not Required,"Bonus: Magic, Ammunition, Range"
-Unbreakable Arrow,Common,Weapon,No SubType,Not Required,
-Uncommon Glamerweave,Uncommon,Wondrous Item,No SubType,Not Required,"Bonus: Performance, Bonus: Persuasion"
-Universal Solvent,Legendary,Wondrous Item,No SubType,Not Required,"Utility, Consumable"
-Ventilating Lungs,Rare,Wondrous Item,No SubType,Required,Advantage: Saving Throws
-Verminshroud,Legendary,Wondrous Item,No SubType,Required,"Advantage: Perception, Sense: Darkvision, Immunity: Disease"
-Veteran’s Cane,Common,Wondrous Item,No SubType,Not Required,Utility
-"Vicious Rapier, +1",Rare,Weapon,Rapier,Not Required,"Damage: Additional, Bonus: Magic, Damage, Combat, Finesse"
-Vicious Weapon,Rare,Weapon,No SubType,Not Required,"Damage: Additional, Damage, Combat"
-Vorpal Sword,Legendary,Weapon,No SubType,Required,"Bonus: Magic, Damage, Combat"
-Voting Kit,Common,Wondrous Item,No SubType,Not Required,
-Vox Seeker,Common,Wondrous Item,No SubType,Not Required,
-Voyager Staff,Very Rare,Staff,No SubType,Required,"Bonus: Spell Attacks, Bonus: Magic, spellcaster"
-Walloping Ammunition,Common,Weapon,Blowgun,Not Required,"Ammunition, Loading, Range"
-Wand of Binding,Rare,Wand,No SubType,Required,"Advantage: Saving Throws, Advantage: Athletics, Advantage: Acrobatics, Spellcaster, Control, Buff"
-Wand of Conducting,Common,Wand,No SubType,Not Required,Social
-Wand of Enemy Detection,Rare,Wand,No SubType,Required,Detection
-Wand of Entangle,Uncommon,Wand,No SubType,Required,"spellcaster, Control, Debuff"
-Wand of Fear,Rare,Wand,No SubType,Required,"Frightened, Control"
-Wand of Fireballs,Rare,Wand,No SubType,Required,"Spellcaster, Damage, Combat"
-Wand of Lightning Bolts,Rare,Wand,No SubType,Required,"Spellcaster, Damage, Combat"
-Wand of Magic Detection,Uncommon,Wand,No SubType,Not Required,Detection
-Wand of Magic Missiles,Uncommon,Wand,No SubType,Not Required,"Damage, Combat"
-Wand of Orcus,Artifact,Weapon,Mace,Required,"Bonus: Armor Class, Damage: Necrotic, Bonus: Magic, Summoning, Damage, Buff, Debuff, Utility, Combat, Cursed"
-Wand of Paralysis,Rare,Wand,No SubType,Required,"Paralyzed, Spellcaster, Control, Debuff"
-Wand of Polymorph,Very Rare,Wand,No SubType,Required,"Spellcaster, Control, Shapechanging"
-Wand of Pyrotechnics,Common,Wand,No SubType,Not Required,Social
-Wand of Scowls,Common,Wand,No SubType,Not Required,Social
-Wand of Secrets,Uncommon,Wand,No SubType,Not Required,Detection
-Wand of Smiles,Common,Wand,No SubType,Not Required,Social
-Wand of the War Mage,Varies,Wand,No SubType,Required,"Bonus: Spell Attacks, Spellcaster, Buff, Combat"
-Wand of Viscid Globs,Rare,Wand,No SubType,Required,"Restrained, Control, Debuff"
-Wand of Web,Uncommon,Wand,No SubType,Required,"Spellcaster, Control"
-Wand of Winter,Rare,Wand,No SubType,Required,"Damage, Control"
-Wand of Wonder,Rare,Wand,No SubType,Required,"Petrified, Spellcaster, Damage, Control, Utility, Combat, Deception"
-Wand Sheath,Common,Wondrous Item,No SubType,Required,"Warforged, Utility"
-Watchful Helm,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Armor Class, Advantage: Perception, Bonus: Passive Perception"
-Wave,Legendary,Weapon,Trident,Required,"Advantage: Initiative, Bonus: Magic, Creature that Worships a God of the Sea, Damage, Buff, Utility, Combat, Sentient, Thrown, Versatile"
-Waythe,Legendary,Weapon,Greatsword,Required,"Bonus: Magic, Damage, Buff, Combat, Sentient, Heavy, Two-Handed"
-Weapon of Certain Death,Rare,Weapon,No SubType,Not Required,
-Weapon of Warning,Uncommon,Weapon,No SubType,Required,"Advantage: Initiative, Damage, Detection, Combat"
-"Weapon, +1",Uncommon,Weapon,No SubType,Not Required,"Bonus: Magic, Damage, Combat"
-"Weapon, +2",Rare,Weapon,No SubType,Not Required,"Bonus: Magic, Damage, Combat"
-"Weapon, +3",Very Rare,Weapon,No SubType,Not Required,"Bonus: Magic, Damage, Combat"
-Weird Tank,Rare,Wondrous Item,No SubType,Required,Summoning
-Well of Many Worlds,Legendary,Wondrous Item,No SubType,Not Required,Teleportation
-Wheel of Stars,Very Rare,Wondrous Item,No SubType,Required,Bonus: Wisdom Saving Throws
-Wheel of Wind and Water,Uncommon,Wondrous Item,No SubType,Not Required,
-Whelm,Legendary,Weapon,Warhammer,Required,"Bonus: Magic, dwarf, Damage, Buff, Debuff, Combat, Sentient, Versatile"
-Whisper Jar,Varies,Wondrous Item,No SubType,Not Required,
-White Dragon Mask,Legendary,Wondrous Item,No SubType,Required,"Advantage: Charisma Ability Checks, Resistance: Cold, Sense: Blindsight, Sense: Darkvision, Language: Draconic, Bonus: Unarmored Armor Class, Buff"
-Will of the Talon,Artifact,Weapon,War Pick,Required,"Bonus: Magic, Language: Draconic, Language: Infernal"
-Wind Fan,Uncommon,Wondrous Item,No SubType,Not Required,Control
-Windvane,Legendary,Weapon,Spear,Required,"Damage: Lightning, Resistance: Lightning, Bonus: Magic, Language: Auran, Weapon Property: Finesse, Damage, Buff, Combat, Thrown, Versatile"
-Winged Boots,Uncommon,Wondrous Item,No SubType,Required,"Set: Innate Speed (Flying), Movement, Footwear"
-Wings of Flying,Rare,Wondrous Item,No SubType,Required,"Set: Innate Speed (Flying), Movement, Outerwear"
-Wingwear,Uncommon,Wondrous Item,No SubType,Required,"Set: Innate Speed (Flying), Movement"
-Winter’s Dark Bite,Uncommon,Weapon,Greatsword,Not Required,"Bonus: Magic, Damage, Combat, Heavy, Two-Handed"
-Witchlight Vane,Legendary,Wondrous Item,Mace,Required,"Vulnerability: Lightning, Immunity: Blinded, Immunity: Deafened, Immunity: Petrified, Immunity: Stunned, Bonus: Magic, Mister Light or His Handpicked Successor"
-Witchlight Watch,Legendary,Wondrous Item,No SubType,Required,Mister Witch or His Handpicked Successor
-Witherbloom Primer,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Nature, Bonus: Survival, spellcaster"
-Woodcutter's Axe,Rare,Weapon,Greataxe,Not Required,"Damage: Slashing, Bonus: Magic, Heavy, Two-Handed"
-Wreath of the Prism,Legendary,Wondrous Item,No SubType,Required,Set Base: Darkvision
-Wyrmskull Throne,Artifact,Wondrous Item,No SubType,Not Required,"Set: Innate Speed (Flying), Damage, Movement, Warding"
-Xorian Wenge Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
-"Yklwa, +1",Uncommon,Weapon,Yklwa,Not Required,"Bonus: Magic, Damage, Combat, Thrown"
-"Yklwa, +2",Rare,Weapon,Yklwa,Not Required,"Bonus: Magic, Damage, Combat, Thrown"
-"Yklwa, +3",Very Rare,Weapon,Yklwa,Not Required,"Bonus: Magic, Damage, Combat, Thrown"
-Ythryn Mythallar,Legendary,Wondrous Item,No SubType,Required,"spellcaster, Control"
+Name,Rarity,Type,SubType,Attunement,Notes
+
+Abracadabrus,Very Rare,Wondrous Item,No SubType,Not Required,"Utility, Container"
+
+Absorbing Tattoo,Very Rare,Wondrous Item,No SubType,Required,
+
+Acheron Blade,Rare,Weapon,No SubType,Required,"Bonus: Temporary Hit Points, Bonus: Magic"
+
+Adamantine Armor,Uncommon,Armor,No SubType,Not Required,"Immunity: Critical Hits, Combat, Warding"
+
+"Akmon, Hammer of Purphoros",Artifact,Weapon,Warhammer,Required,"Damage: Fire, Resistance: Fire, Immunity: Exhaustion, Bonus: Magic, Proficiency: Smith's Tools, Versatile"
+
+Alchemical Compendium,Rare,Wondrous Item,No SubType,Required,wizard
+
+Alchemy Jug,Uncommon,Wondrous Item,No SubType,Not Required,Utility
+
+Alchemy Jug (Blue),Uncommon,Wondrous Item,No SubType,Not Required,Utility
+
+Alchemy Jug (Orange),Uncommon,Wondrous Item,No SubType,Not Required,Utility
+
+All-Purpose Tool,Varies,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Bonus: Spell Save DC, artificer"
+
+Amethyst Lodestone,Very Rare,Wondrous Item,No SubType,Required,"Advantage: Strength Saving Throws, Set: Innate Speed (Flying)"
+
+"Ammunition, +1",Uncommon,Weapon,No SubType,Not Required,"Bonus: Magic, Damage"
+
+"Ammunition, +2",Rare,Weapon,No SubType,Not Required,"Bonus: Magic, Damage"
+
+"Ammunition, +3",Very Rare,Weapon,No SubType,Not Required,"Bonus: Magic, Damage"
+
+Amulet of Health,Rare,Wondrous Item,No SubType,Required,"Set: Constitution Score, Buff, Jewelry"
+
+Amulet of Proof against Detection and Location,Uncommon,Wondrous Item,No SubType,Required,"Deception, Jewelry"
+
+Amulet of Protection from Turning,Rare,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Buff, Warding"
+
+Amulet of the Black Skull,Very Rare,Wondrous Item,No SubType,Required,"Teleportation, Bane"
+
+Amulet of the Devout,Varies,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Bonus: Spell Save DC, cleric or paladin"
+
+Amulet of the Drunkard,Uncommon,Wondrous Item,No SubType,Not Required,Healing
+
+Amulet of the Planes,Very Rare,Wondrous Item,No SubType,Required,"Teleportation, Exploration, Jewelry"
+
+Animated Shield,Very Rare,Armor,Shield,Required,"Utility, Warding"
+
+Apparatus of Kwalish,Legendary,Wondrous Item,No SubType,Not Required,"Utility, Exploration, Combat"
+
+Apparatus of the Crab,Legendary,Wondrous Item,No SubType,Not Required,"Utility, Exploration, Combat"
+
+Arcane Cannon,Very Rare,Wondrous Item,No SubType,Not Required,
+
+Arcane Grimoire,Varies,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Bonus: Spell Save DC, wizard"
+
+Arcane Propulsion Arm,Very Rare,Wondrous Item,No SubType,Required,creature missing a hand or an arm
+
+Armblade,Common,Weapon,Club,Required,"Warforged, Damage, Combat, Light"
+
+Armor of Gleaming,Common,Armor,Breastplate,Not Required,Utility
+
+Armor of Invulnerability,Legendary,Armor,Plate,Required,"Resistance: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks, Immunity: Bludgeoning, Piercing, and Slashing from Nonmagical Weapons, Combat, Warding, Str 15 Required, Stealth Disadvantage"
+
+Armor of Resistance,Rare,Armor,Breastplate,Required,"Resistance: Acid, Resistance: Cold, Resistance: Fire, Resistance: Force, Resistance: Lightning, Resistance: Necrotic, Resistance: Poison, Resistance: Psychic, Resistance: Radiant, Resistance: Thunder, Combat, Warding"
+
+Armor of Vulnerability,Rare,Armor,Plate,Required,"Resistance: Bludgeoning, Resistance: Piercing, Resistance: Slashing, Vulnerability: Bludgeoning, Vulnerability: Piercing, Vulnerability: Slashing, Combat, Warding, Cursed, Str 15 Required, Stealth Disadvantage"
+
+"Armor, +1",Rare,Armor,No SubType,Not Required,"Bonus: Armor Class, Combat, Warding"
+
+"Armor, +2",Very Rare,Armor,No SubType,Not Required,"Bonus: Armor Class, Combat, Warding"
+
+"Armor, +3",Legendary,Armor,No SubType,Not Required,"Bonus: Armor Class, Combat, Warding"
+
+Arrow of Slaying,Very Rare,Weapon,No SubType,Not Required,"Damage: Piercing, Damage, Combat, Bane"
+
+Arrow-Catching Shield,Rare,Armor,Shield,Required,"Combat, Warding"
+
+Astral Shard,Rare,Wondrous Item,No SubType,Required,sorcerer
+
+Astromancy Archive,Rare,Wondrous Item,No SubType,Required,wizard
+
+Atlas of Endless Horizons,Rare,Wondrous Item,No SubType,Required,wizard
+
+Axe of the Dwarvish Lords,Artifact,Weapon,Battleaxe,Required,"Bonus: Constitution Score, Advantage: Persuasion, Immunity: Poison, Sense: Darkvision, Damage: Additional, Bonus: Magic, Proficiency: Brewer's Supplies, Proficiency: Mason's Tools, Proficiency: Smith's Tools, Damage, Buff, Debuff, Combat, Cursed, Versatile"
+
+Azuredge,Legendary,Weapon,Battleaxe,Required,"Damage: Radiant, Bonus: Magic, Versatile"
+
+Baba Yagaï¿½s Mortar and Pestle,Artifact,Wondrous Item,No SubType,Required,
+
+Badge of the Watch,Rare,Wondrous Item,No SubType,Required,"Bonus: Armor Class, someone designated by the Open Lord of Waterdeep"
+
+Bag of Beans,Rare,Wondrous Item,No SubType,Not Required,"Damage, Control, Utility, Combat"
+
+Bag of Bounty,Uncommon,Wondrous Item,No SubType,Not Required,
+
+Bag of Devouring,Very Rare,Wondrous Item,No SubType,Not Required,"Control, Utility, Combat, Container"
+
+Bag of Holding,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Container"
+
+Bag of Tricks,Uncommon,Wondrous Item,No SubType,Not Required,"Summoning, Utility"
+
+Balance of Harmony,Uncommon,Wondrous Item,No SubType,Not Required,Detection
+
+Balloon Pack,Uncommon,Wondrous Item,No SubType,Not Required,"Movement, Utility, Exploration"
+
+Band of Loyalty,Common,Ring,No SubType,Required,
+
+Banner of the Krig Rune,Rare,Wondrous Item,No SubType,Required,"Immunity: Frightened, Buff, Detection, Combat, Warding"
+
+Barrier Tattoo,Varies,Wondrous Item,No SubType,Required,Set: Unarmored Armor Class
+
+Battering Shield,Rare,Armor,Shield,Required,Bonus: Armor Class
+
+Battle Standard of Infernal Power,Very Rare,Wondrous Item,No SubType,Required,
+
+Bead of Force,Rare,Wondrous Item,No SubType,Not Required,"Damage: Force, Damage, Control, Combat, Consumable"
+
+Bead of Nourishment,Common,Wondrous Item,No SubType,Not Required,
+
+Bead of Refreshment,Common,Wondrous Item,No SubType,Not Required,
+
+Belashyrraï¿½s Beholder Crown,Legendary,Wondrous Item,No SubType,Required,Symbiotic
+
+Bell Branch,Rare,Wondrous Item,No SubType,Required,druid or warlock
+
+Belt of Dwarvenkind,Rare,Wondrous Item,No SubType,Required,"Bonus: Constitution Score, Advantage: Saving Throws, Advantage: Persuasion, Resistance: Poison, Language: Dwarvish, Set Base: Darkvision, Buff, Social, Utility, Belt"
+
+Belt of Giant Strength,Varies,Wondrous Item,No SubType,Required,"Set: Strength Score, Buff, Belt"
+
+Berserker Axe,Rare,Weapon,Battleaxe,Required,"Bonus: Magic, Bonus: Hit Points per Level, Combat, Cursed, Versatile"
+
+Black Crystal Tablet,Legendary,Wondrous Item,No SubType,Required,"creature that has proficiency in the Arcana skill, Teleportation, Control"
+
+Black Dragon Mask,Legendary,Wondrous Item,No SubType,Required,"Advantage: Charisma Ability Checks, Resistance: Acid, Sense: Blindsight, Sense: Darkvision, Language: Draconic, Bonus: Unarmored Armor Class, Buff"
+
+Blackrazor,Legendary,Weapon,Greatsword,Required,"Advantage: Saving Throws, Advantage: Ability Checks, Advantage: Melee Attacks, Advantage: Ranged Attacks, Bonus: Magic, Creature of Non-Lawful Alignment, Damage, Buff, Combat, Bane, Sentient, Heavy, Two-Handed"
+
+Blackstaff,Legendary,Staff,No SubType,Required,"Bonus: Armor Class, Bonus: Saving Throws, Bonus: Spell Attacks, Damage: Force, Bonus: Magic, Blackstaff heir, who must be a wizard"
+
+Blade of Avernus,Artifact,Weapon,Longsword,Required,"Bonus: Magic, Versatile"
+
+Blade of Broken Mirrors,Artifact,Weapon,Dagger,Required,"Bonus: Magic, Language: Abyssal, humanoid, Finesse, Light, Thrown"
+
+Blade of the Medusa,Very Rare,Weapon,No SubType,Required,
+
+Blast Scepter,Very Rare,Rod,No SubType,Required,"Resistance: Fire, Resistance: Lightning, Damage, Combat"
+
+Blod Stone,Rare,Wondrous Item,No SubType,Required,Detection
+
+Blood Fury Tattoo,Legendary,Wondrous Item,No SubType,Required,Damage: Necrotic
+
+Blood of the Lycanthrope Antidote,Uncommon,Potion,No SubType,Not Required,Consumable
+
+Blood Spear,Uncommon,Weapon,Spear,Required,"Bonus: Temporary Hit Points, Bonus: Magic, Damage, Buff, Combat, Thrown, Versatile"
+
+Bloodaxe,Very Rare,Weapon,Greataxe,Required,"Damage: Necrotic, Bonus: Magic, Heavy, Two-Handed"
+
+Bloodwell Vial,Varies,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Bonus: Spell Save DC, sorcerer"
+
+Blue Dragon Mask,Legendary,Wondrous Item,No SubType,Required,"Advantage: Charisma Ability Checks, Resistance: Lightning, Sense: Blindsight, Sense: Darkvision, Language: Draconic, Bonus: Unarmored Armor Class"
+
+Bobbing Lily Pad,Very Rare,Wondrous Item,No SubType,Required,
+
+Bonecounter,Rare,Weapon,Mace,Not Required,Bonus: Magic
+
+Book of Exalted Deeds,Artifact,Wondrous Item,No SubType,Required,"Bonus: Wisdom Score, Advantage: Intimidation, Advantage: Persuasion, Bonus: Ability Score Maximum, Spell Slot Increase: Cleric, Spell Slot Increase: Paladin, creature of good alignment, Damage, Buff, Utility"
+
+Book of Vile Darkness,Artifact,Wondrous Item,No SubType,Required,"Advantage: Intimidation, Advantage: Persuasion, Expertise: Intelligence Ability Checks, Damage, Control, Buff, Debuff, Utility, Combat, Cursed"
+
+Bookmark,Legendary,Weapon,Dagger,Required,"Bonus: Magic, Damage, Control, Movement, Utility, Exploration, Combat, Finesse, Light, Thrown"
+
+"Boomerang, +1",Uncommon,Weapon,Boomerang,Not Required,"Bonus: Magic, Damage, Combat, Range"
+
+"Boomerang, +2",Rare,Weapon,Boomerang,Not Required,"Bonus: Magic, Damage, Combat, Range"
+
+"Boomerang, +3",Very Rare,Weapon,Boomerang,Not Required,"Bonus: Magic, Damage, Combat, Range"
+
+Boots of Elvenkind,Uncommon,Wondrous Item,No SubType,Not Required,"Advantage: Stealth, Movement, Utility, Deception, Footwear"
+
+Boots of False Tracks,Common,Wondrous Item,No SubType,Not Required,Movement
+
+Boots of Levitation,Rare,Wondrous Item,No SubType,Required,"Movement, Utility, Footwear"
+
+Boots of Speed,Rare,Wondrous Item,No SubType,Required,"Bonus: Speed, Buff, Movement, Utility, Footwear"
+
+Boots of Striding and Springing,Uncommon,Wondrous Item,No SubType,Required,"Set: Innate Speed (Walking), Speed Reduction: Remove, Buff, Movement, Utility, Footwear"
+
+Boots of the Winterlands,Uncommon,Wondrous Item,No SubType,Required,"Resistance: Cold, Buff, Utility, Warding, Footwear"
+
+Bottle of Boundless Coffee,Common,Wondrous Item,No SubType,Not Required,
+
+Bottled Breath,Uncommon,Potion,No SubType,Not Required,"Control, Utility"
+
+Bowl of Commanding Water Elementals,Rare,Wondrous Item,No SubType,Not Required,Summoning
+
+Bracelet of Rock Magic,Very Rare,Wondrous Item,No SubType,Required,"Buff, Warding, Cursed, Wristwear"
+
+Bracer of Flying Daggers,Rare,Wondrous Item,No SubType,Required,Wristwear
+
+Bracers of Archery,Uncommon,Wondrous Item,No SubType,Required,"Proficiency: Shortbow, Proficiency: Longbow, Damage: Shortbow, Damage: Longbow, Damage, Buff, Combat, Wristwear"
+
+Bracers of Defense,Rare,Wondrous Item,No SubType,Required,"Bonus: Unarmored Armor Class, Warding, Wristwear"
+
+Brazier of Commanding Fire Elementals,Rare,Wondrous Item,No SubType,Not Required,Summoning
+
+Breathing Bubble,Common,Wondrous Item,No SubType,Not Required,
+
+Bridle of Capturing,Rare,Wondrous Item,No SubType,Not Required,
+
+Brooch of Living Essence,Uncommon,Wondrous Item,No SubType,Required,
+
+Brooch of Shielding,Uncommon,Wondrous Item,No SubType,Required,"Resistance: Force, Warding, Jewelry"
+
+Broom of Flying,Uncommon,Wondrous Item,No SubType,Not Required,"Set: Speed (Flying), Movement, Utility, Exploration"
+
+Butcher's Bib,Rare,Wondrous Item,No SubType,Required,
+
+Candle of Invocation,Very Rare,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Advantage: Ability Checks, Advantage: Melee Attacks, Advantage: Ranged Attacks, Advantage: Spell Attacks, Buff, Consumable"
+
+Candle of the Deep,Common,Wondrous Item,No SubType,Not Required,
+
+Cap of Water Breathing,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
+
+Cape of the Mountebank,Rare,Wondrous Item,No SubType,Not Required,"Teleportation, Exploration, Outerwear"
+
+Carpet of Flying,Very Rare,Wondrous Item,No SubType,Not Required,"Set: Speed (Flying), Movement, Utility, Exploration"
+
+Cartographer's Map Case,Common,Wondrous Item,No SubType,Not Required,
+
+Cast-Off Armor,Common,Armor,Breastplate,Not Required,Utility
+
+Cauldron of Plenty,Rare,Wondrous Item,No SubType,Not Required,"Utility, Container"
+
+Cauldron of Rebirth,Very Rare,Wondrous Item,No SubType,Required,druid or warlock
+
+Censer of Controlling Air Elementals,Rare,Wondrous Item,No SubType,Not Required,Summoning
+
+Charlatanï¿½s Die,Common,Wondrous Item,No SubType,Required,Social
+
+Charm of Plant Command,Rare,Wondrous Item,No SubType,Required,Communication
+
+Chest of Preserving,Common,Wondrous Item,No SubType,Not Required,
+
+Chime of Opening,Rare,Wondrous Item,No SubType,Not Required,"Utility, Exploration, Consumable"
+
+Chromatic Rose,Rare,Wondrous Item,No SubType,Not Required,
+
+Chronolometer,Very Rare,Wondrous Item,No SubType,Required,Bonus: Intelligence Saving Throws
+
+Circlet of Blasting,Uncommon,Wondrous Item,No SubType,Not Required,"Damage, Combat, Headwear"
+
+Circlet of Human Perfection,Uncommon,Wondrous Item,No SubType,Required,humanoid
+
+Claw of the Wyrm Rune,Rare,Wondrous Item,No SubType,Required,"Resistance: All, Combat, Warding, Bane"
+
+Claws of the Umber Hulk,Rare,Wondrous Item,No SubType,Required,"Set: Innate Speed (Burrowing), Melee Weapon Attack: Slashing"
+
+Cleansing Stone,Common,Wondrous Item,No SubType,Not Required,
+
+Cloak of Arachnida,Very Rare,Wondrous Item,No SubType,Required,"Resistance: Poison, Set: Innate Speed (Climbing), Control, Buff, Movement, Warding, Outerwear"
+
+Cloak of Billowing,Common,Wondrous Item,No SubType,Not Required,Social
+
+Cloak of Displacement,Rare,Wondrous Item,No SubType,Required,"Disadvantage: Attack Rolls Against You, Deception, Warding, Outerwear"
+
+Cloak of Elvenkind,Uncommon,Wondrous Item,No SubType,Required,"Advantage: Stealth, Deception, Outerwear"
+
+Cloak of Invisibility,Legendary,Wondrous Item,No SubType,Required,"Invisible, Exploration, Deception, Warding"
+
+Cloak of Many Fashions,Common,Wondrous Item,No SubType,Not Required,Social
+
+Cloak of Protection,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Armor Class, Bonus: Saving Throws, Warding, Outerwear"
+
+Cloak of the Bat,Rare,Wondrous Item,No SubType,Required,"Advantage: Stealth, Set: Innate Speed (Flying), Movement, Shapechanging, Deception, Outerwear"
+
+Cloak of the Manta Ray,Uncommon,Wondrous Item,No SubType,Not Required,"Set: Innate Speed (Swimming), Buff, Movement, Outerwear"
+
+Clockwork Amulet,Common,Wondrous Item,No SubType,Not Required,Combat
+
+Clothes of Mending,Common,Wondrous Item,No SubType,Not Required,Social
+
+Coiling Grasp Tattoo,Uncommon,Wondrous Item,No SubType,Required,
+
+Coin of Decisionry,Varies,Wondrous Item,No SubType,Not Required,
+
+Coin of Delving,Common,Wondrous Item,No SubType,Not Required,
+
+Concertina,Rare,Wondrous Item,No SubType,Not Required,
+
+Conch of Teleportation,Very Rare,Wondrous Item,No SubType,Required,"Teleportation, Movement, Exploration"
+
+Corpse Slayer,Rare,Weapon,No SubType,Required,"Damage: Additional, Bonus: Magic"
+
+Cracked Driftglobe,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
+
+Crook of Rao,Artifact,Wondrous Item,No SubType,Required,
+
+Crown of the Forest,Uncommon,Wondrous Item,No SubType,Not Required,
+
+Crystal Ball,Very Rare,Wondrous Item,No SubType,Required,"Scrying, Detection"
+
+Crystal Ball of Mind Reading,Legendary,Wondrous Item,No SubType,Required,"Scrying, Detection"
+
+Crystal Ball of Telepathy,Legendary,Wondrous Item,No SubType,Required,"Control, Communication, Scrying, Detection"
+
+Crystal Ball of True Seeing,Legendary,Wondrous Item,No SubType,Required,"Sense: Truesight, Scrying, Detection"
+
+Crystal Blade,Rare,Weapon,No SubType,Required,Damage: Radiant
+
+Crystalline Chronicle,Very Rare,Wondrous Item,No SubType,Required,wizard
+
+Cube of Force,Rare,Wondrous Item,No SubType,Required,"Control, Warding"
+
+Cubic Gate,Legendary,Wondrous Item,No SubType,Not Required,"Teleportation, Exploration"
+
+Cuddly Strixhaven Mascot,Common,Wondrous Item,No SubType,Not Required,Advantage: Saving Throws
+
+Cursed Luckstone,Uncommon,Wondrous Item,No SubType,Required,"Buff, Debuff, Utility"
+
+Daern's Instant Fortress,Rare,Wondrous Item,No SubType,Not Required,"Utility, Warding"
+
+Dagger of Blindsight,Rare,Weapon,Dagger,Required,"Sense: Blindsight, Finesse, Light, Thrown"
+
+Dagger of Venom,Rare,Weapon,Dagger,Not Required,"Damage: Poison, Bonus: Magic, Poisoned, Damage, Debuff, Combat, Finesse, Light, Thrown"
+
+Dancing Sword,Very Rare,Weapon,No SubType,Required,"Damage, Combat"
+
+Danothï¿½s Visor,Legendary,Wondrous Item,No SubType,Required,"Advantage: Investigation, Advantage: Perception"
+
+Dark Shard Amulet,Common,Wondrous Item,No SubType,Required,warlock
+
+Dawnbringer,Legendary,Weapon,Longsword,Required,"Damage: Radiant, Bonus: Magic, Weapon Property: Finesse, Replace Damage Type: Radiant, Creature of Non-Evil Alignment, Damage, Combat, Sentient, Versatile"
+
+Decanter of Endless Water,Uncommon,Wondrous Item,No SubType,Not Required,"Creation, Utility"
+
+Deck of Illusions,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Deception, Consumable"
+
+Deck of Many Things,Legendary,Wondrous Item,No SubType,Not Required,"Utility, Consumable"
+
+Deck of Several Things,Legendary,Wondrous Item,No SubType,Not Required,
+
+Defender,Legendary,Weapon,Longsword,Required,"Bonus: Magic, Damage, Combat, Warding, Versatile"
+
+"Dekella, Bident of Thassa",Artifact,Weapon,Trident,Required,"Damage: Cold, Bonus: Magic, Set: Speed (Swimming), Damage, Control, Combat, Thrown, Versatile"
+
+Demon Armor,Very Rare,Armor,Plate,Required,"Bonus: Armor Class, Language: Abyssal, Damage, Combat, Warding, Cursed, Str 15 Required, Stealth Disadvantage"
+
+Demonomicon of Iggwilv,Artifact,Wondrous Item,No SubType,Required,
+
+Devastation Orb,Very Rare,Wondrous Item,No SubType,Not Required,"Damage, Control"
+
+Devotee's Censer,Rare,Weapon,Flail,Required,"Damage: Radiant, cleric or paladin"
+
+Dimensional Loop,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Strength Saving Throws, Sense: Darkvision"
+
+Dimensional Shackles,Rare,Wondrous Item,No SubType,Not Required,"Control, Utility"
+
+Dispelling Stone,Very Rare,Wondrous Item,No SubType,Not Required,
+
+Docent,Rare,Wondrous Item,No SubType,Required,"Warforged, Communication, Detection, Utility, Sentient"
+
+Documancy Satchel,Varies,Wondrous Item,No SubType,Not Required,
+
+Dodecahedron of Doom,Rare,Wondrous Item,No SubType,Not Required,Utility
+
+Draakhorn,Artifact,Wondrous Item,No SubType,Not Required,Control
+
+Dragon Scale Mail,Very Rare,Armor,Scale Mail,Required,"Bonus: Armor Class, Advantage: Saving Throws, Resistance: Acid, Resistance: Cold, Resistance: Fire, Resistance: Lightning, Resistance: Poison, Detection, Combat, Warding, Stealth Disadvantage"
+
+Dragon Slayer,Rare,Weapon,Longsword,Not Required,"Damage: Additional, Bonus: Magic, Damage, Combat, Versatile"
+
+Dragon Vessel,Varies,Wondrous Item,No SubType,Required,
+
+Dragon Wing Bow,Rare,Weapon,No SubType,Required,"Damage: Acid, Damage: Cold, Damage: Fire, Damage: Force, Damage: Lightning, Damage: Necrotic, Damage: Poison, Damage: Psychic, Damage: Thunder"
+
+Dragonï¿½s Wrath Weapon,Varies,Weapon,No SubType,Required,"Damage: Additional, Bonus: Magic"
+
+Dragonguard,Rare,Armor,Breastplate,Not Required,"Bonus: Armor Class, Advantage: Saving Throws, Combat, Warding"
+
+Dragonhide Belt,Varies,Wondrous Item,No SubType,Required,Monk
+
+Dragonlance,Legendary,Weapon,No SubType,Required,"Damage: Force, Bonus: Magic"
+
+Dragonstaff of Ahghairon,Legendary,Staff,No SubType,Required,
+
+Dragontooth Dagger,Rare,Weapon,Dagger,Not Required,"Damage: Acid, Bonus: Magic, Damage, Bane, Finesse, Light, Thrown"
+
+Dragon-Touched Focus,Varies,Wondrous Item,No SubType,Required,"Advantage: Initiative, spellcaster"
+
+Dread Helm,Common,Wondrous Item,No SubType,Not Required,Social
+
+Driftglobe,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
+
+Drown,Legendary,Weapon,Trident,Required,"Damage: Cold, Resistance: Cold, Bonus: Magic, Language: Aquan, Damage, Buff, Combat, Thrown, Versatile"
+
+Duplicitous Manuscript,Rare,Wondrous Item,No SubType,Required,wizard
+
+Duskcrusher,Very Rare,Weapon,Warhammer,Required,"Damage: Radiant, Bonus: Magic, Replace Damage Type: Radiant, Versatile"
+
+Dust of Corrosion,Uncommon,Wondrous Item,No SubType,Not Required,
+
+Dust of Deliciousness,Uncommon,Wondrous Item,No SubType,Not Required,
+
+Dust of Disappearance,Uncommon,Wondrous Item,No SubType,Not Required,"Invisible, Utility, Deception, Consumable"
+
+Dust of Dryness,Uncommon,Wondrous Item,No SubType,Not Required,"Damage: Necrotic, Damage, Control, Combat, Consumable"
+
+Dust of Sneezing and Choking,Uncommon,Wondrous Item,No SubType,Not Required,"Incapacitated, Control, Debuff"
+
+Dwarven Plate,Very Rare,Armor,Plate,Not Required,"Bonus: Armor Class, Control, Combat, Warding, Str 15 Required, Stealth Disadvantage"
+
+Dwarven Thrower,Very Rare,Weapon,Warhammer,Required,"Damage: Additional, Damage: Additional, Bonus: Magic, Dwarf, Damage, Combat, Versatile"
+
+Dyrrnï¿½s Tentacle Whip,Very Rare,Weapon,Whip,Required,"Damage: Psychic, Bonus: Magic, Symbiotic, Finesse, Reach"
+
+Eagle Whistle,Rare,Wondrous Item,No SubType,Not Required,"Buff, Movement"
+
+Ear Horn of Hearing,Common,Wondrous Item,No SubType,Not Required,
+
+Earring of Message,Common,Wondrous Item,No SubType,Not Required,
+
+Earworm,Uncommon,Wondrous Item,No SubType,Required,"Language: Deep Speech, Symbiotic"
+
+Efficient Quiver,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Container"
+
+Efreeti Bottle,Very Rare,Wondrous Item,No SubType,Not Required,"Control, Utility, Consumable"
+
+Efreeti Chain,Legendary,Armor,Chain Mail,Required,"Bonus: Armor Class, Immunity: Fire, Language: Primordial, Str 13 Required, Stealth Disadvantage"
+
+Elder Cartographerï¿½s Glossography,Uncommon,Wondrous Item,No SubType,Not Required,
+
+Eldritch Claw Tattoo,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Unarmed Attacks, Damage: Unarmed Attacks"
+
+Eldritch Staff,Very Rare,Staff,No SubType,Required,"Damage: Lightning, Bonus: Magic, Damage, Combat"
+
+Elemental Essence Shard,Rare,Wondrous Item,No SubType,Required,sorcerer
+
+Elemental Gem,Uncommon,Wondrous Item,No SubType,Not Required,Summoning
+
+Elixir of Health,Rare,Potion,No SubType,Not Required,
+
+Elven Chain,Rare,Armor,Chain Shirt,Not Required,"Bonus: Armor Class, Proficiency: Self, Combat, Warding"
+
+Emerald Pen,Uncommon,Wondrous Item,No SubType,Not Required,
+
+Enduring Spellbook,Common,Wondrous Item,No SubType,Not Required,
+
+"Ephixis, Bow of Nylea",Artifact,Weapon,Shortbow,Required,"Bonus: Magic, Summoning, Damage, Combat, Ammunition, Range, Two-Handed"
+
+Ersatz Eye,Common,Wondrous Item,No SubType,Required,Social
+
+Everbright Lantern,Common,Wondrous Item,No SubType,Not Required,
+
+Eversmoking Bottle,Uncommon,Wondrous Item,No SubType,Not Required,"Control, Utility, Deception"
+
+Eye and Hand of Vecna,Artifact,Wondrous Item,No SubType,Not Required,"Immunity: Poison, Immunity: Disease, Damage, Buff, Debuff, Utility, Combat, Cursed, Eyewear, Handwear"
+
+Eyes of Charming,Uncommon,Wondrous Item,No SubType,Required,"Control, Social, Eyewear"
+
+Eyes of Minute Seeing,Uncommon,Wondrous Item,No SubType,Not Required,"Advantage: Investigation, Detection, Utility, Eyewear"
+
+Eyes of the Eagle,Uncommon,Wondrous Item,No SubType,Required,"Advantage: Perception, Detection, Utility, Eyewear"
+
+Failed Experiment Wand,Rare,Wand,No SubType,Required,"Spellcaster, Damage, Combat"
+
+Fane-Eater,Legendary,Weapon,Battleaxe,Required,"Damage: Necrotic, Bonus: Magic, evil cleric or paladin, Versatile"
+
+Far Gear,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Charisma Saving Throws, Advantage: Intimidation"
+
+Far Realm Shard,Rare,Wondrous Item,No SubType,Required,sorcerer
+
+Feather of Diatryma Summoning,Rare,Wondrous Item,No SubType,Required,
+
+Feather Token,Rare,Wondrous Item,No SubType,Not Required,"Creation, Summoning, Damage, Control, Movement, Utility, Exploration, Combat, Consumable"
+
+Feather Token (Feather Fall),Common,Wondrous Item,No SubType,Not Required,
+
+Fernian Ash Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
+
+Feywild Shard,Uncommon,Wondrous Item,No SubType,Required,sorcerer
+
+Figurine of Wondrous Power,Varies,Wondrous Item,No SubType,Not Required,Summoning
+
+Finderï¿½s Goggles,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Insight, creature with the Mark of Finding, Buff, Detection, Eyewear"
+
+Flail of Tiamat,Legendary,Weapon,Flail,Required,"Damage: Acid, Damage: Cold, Damage: Fire, Damage: Lightning, Damage: Poison, Bonus: Magic"
+
+Flame Tongue,Rare,Weapon,Longsword,Required,"Damage: Fire, Damage, Combat, Versatile"
+
+Flying Chariot,Rare,Wondrous Item,No SubType,Not Required,Bonus: Armor Class
+
+Folding Boat,Rare,Wondrous Item,No SubType,Not Required,"Movement, Utility, Exploration"
+
+Frost Brand,Very Rare,Weapon,Longsword,Required,"Damage: Cold, Resistance: Fire, Damage, Combat, Versatile"
+
+Fulminating Treatise,Rare,Wondrous Item,No SubType,Required,wizard
+
+Galderï¿½s Bubble Pipe,Rare,Wondrous Item,No SubType,Required,
+
+Gamblerï¿½s Blade,Rare,Weapon,No SubType,Required,Bonus: Magic
+
+Gauntlets of Flaming Fury,Rare,Wondrous Item,No SubType,Required,"Damage: Fire, Damage, Combat, Handwear"
+
+Gauntlets of Ogre Power,Uncommon,Wondrous Item,No SubType,Required,"Set: Strength Score, Buff, Handwear"
+
+Gavel of the Venn Rune,Rare,Wondrous Item,No SubType,Required,"Damage, Utility, Warding"
+
+Gem of Brightness,Uncommon,Wondrous Item,No SubType,Not Required,"Blinded, Control, Debuff"
+
+Gem of Seeing,Rare,Wondrous Item,No SubType,Required,"Sense: Truesight, Detection"
+
+Ghost Lantern,Rare,Wondrous Item,No SubType,Required,"Healing, Utility, Exploration"
+
+Ghost Step Tattoo,Very Rare,Wondrous Item,No SubType,Required,
+
+Giant Slayer,Rare,Weapon,Battleaxe,Not Required,"Damage: Additional, Bonus: Magic, Damage, Combat, Versatile"
+
+Glamerweave,Varies,Wondrous Item,No SubType,Not Required,
+
+Glamoured Studded Leather,Rare,Armor,Studded Leather,Not Required,"Bonus: Armor Class, Utility, Combat, Deception, Warding"
+
+Gloves of Missile Snaring,Uncommon,Wondrous Item,No SubType,Required,"Warding, Handwear"
+
+Gloves of Soul Catching,Legendary,Wondrous Item,No SubType,Required,Set: Constitution Score
+
+Gloves of Swimming and Climbing,Uncommon,Wondrous Item,No SubType,Required,"Buff, Movement, Exploration"
+
+Gloves of Thievery,Uncommon,Wondrous Item,No SubType,Not Required,Bonus: Sleight of Hand
+
+Gnomengarde Grenade,Varies,Wondrous Item,No SubType,Not Required,"Damage: Fire, Damage: Thunder"
+
+Goggles of Night,Uncommon,Wondrous Item,No SubType,Not Required,"Sense: Darkvision, Detection, Eyewear"
+
+Goggles of Object Reading,Uncommon,Wondrous Item,No SubType,Required,Advantage: Arcana
+
+Gold Canary Figurine of Wondrous Power,Legendary,Wondrous Item,No SubType,Not Required,
+
+Greater Silver Sword,Legendary,Weapon,Greatsword,Required,"Advantage: Intelligence Saving Throws, Advantage: Wisdom Saving Throws, Advantage: Charisma Saving Throws, Resistance: Psychic, Immunity: Charmed, Bonus: Magic, creature that has psionic ability, Damage, Buff, Heavy, Two-Handed"
+
+Green Dragon Mask,Legendary,Wondrous Item,No SubType,Required,"Advantage: Charisma Ability Checks, Resistance: Poison, Sense: Blindsight, Sense: Darkvision, Language: Draconic, Bonus: Unarmored Armor Class, Buff"
+
+Grimoire Infinitus,Legendary,Wondrous Item,No SubType,Required,wizard
+
+Grovelthrash,Artifact,Weapon,Warhammer,Required,"Damage: Bludgeoning, Advantage: Insight, Bonus: Magic, Language: Abyssal, Language: Infernal, Versatile"
+
+Guardian Emblem,Uncommon,Wondrous Item,No SubType,Required,cleric or paladin
+
+Guild Keyrune,Varies,Wondrous Item,No SubType,Required,member of the relevant guild
+
+Guild Signet,Uncommon,Ring,No SubType,Required,
+
+Gulthias Staff,Rare,Staff,No SubType,Required,"Damage, Buff, Combat"
+
+Gurtï¿½s Greataxe,Legendary,Weapon,Greataxe,Required,"Damage: Slashing, Bonus: Magic, Damage, Bane, Heavy, Two-Handed"
+
+Hammer of Thunderbolts,Legendary,Weapon,Maul,Required,"Bonus: Magic, Bonus: Ability Score Maximum, Stacking Bonus: Strength Score, Damage, Buff, Combat, Heavy, Two-Handed"
+
+Handy Haversack,Rare,Wondrous Item,No SubType,Not Required,"Utility, Container"
+
+Harkonï¿½s Bite,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Saving Throws, Bonus: Ability Checks"
+
+Hat of Disguise,Uncommon,Wondrous Item,No SubType,Required,"Deception, Headwear"
+
+Hat of Vermin,Common,Wondrous Item,No SubType,Not Required,
+
+Hat of Wizardry,Common,Wondrous Item,No SubType,Required,wizard
+
+Hazirawn,Legendary,Weapon,Greatsword,Required,"Damage: Necrotic, Bonus: Magic, Damage, Buff, Combat, Sentient, Heavy, Two-Handed"
+
+Headband of Intellect,Uncommon,Wondrous Item,No SubType,Required,"Set: Intelligence Score, Buff, Headwear"
+
+Heart Weaverï¿½s Primer,Rare,Wondrous Item,No SubType,Required,wizard
+
+Hell Hound Cloak,Rare,Wondrous Item,No SubType,Required,"Buff, Shapechanging, Cursed"
+
+Hellfire Weapon,Uncommon,Weapon,No SubType,Not Required,"Damage, Combat"
+
+Helm of Brilliance,Very Rare,Wondrous Item,No SubType,Required,"Resistance: Fire, Damage, Detection, Combat, Warding, Headwear"
+
+Helm of Comprehending Languages,Uncommon,Wondrous Item,No SubType,Not Required,"Communication, Headwear"
+
+Helm of Devil Command,Very Rare,Wondrous Item,No SubType,Required,creature that can speak Infernal
+
+Helm of Telepathy,Uncommon,Wondrous Item,No SubType,Required,"Communication, Detection, Headwear"
+
+Helm of Teleportation,Rare,Wondrous Item,No SubType,Required,"Teleportation, Headwear"
+
+Helm of the Gods,Rare,Wondrous Item,No SubType,Required,Headwear
+
+Helm of the Scavenger,Legendary,Wondrous Item,No SubType,Required,spellcaster
+
+Helm of Underwater Action,Uncommon,Wondrous Item,No SubType,Required,"Set: Speed (Swimming), Set Base: Darkvision, Movement, Exploration"
+
+Hew,Uncommon,Weapon,Battleaxe,Not Required,"Bonus: Magic, Damage, Combat, Versatile"
+
+Hewardï¿½s Handy Spice Pouch,Common,Wondrous Item,No SubType,Not Required,Social
+
+Hewardï¿½s Hireling Armor,Very Rare,Armor,Leather,Required,Bonus: Armor Class
+
+Heward's Handy Haversack,Rare,Wondrous Item,No SubType,Not Required,"Utility, Container"
+
+Hide of the Feral Guardian,Legendary,Armor,Studded Leather,Required,"Bonus: Armor Class, Bonus: Magic"
+
+Holy Avenger,Legendary,Weapon,Longsword,Required,"Damage: Radiant, Advantage: Saving Throws, Bonus: Magic, Paladin, Damage, Combat, Warding, Versatile"
+
+Holy Symbol of Ravenkind,Legendary,Wondrous Item,No SubType,Required,"cleric or paladin of good alignment, Control, Bane"
+
+Hook of Fisherï¿½s Delight,Rare,Wondrous Item,No SubType,Not Required,
+
+Horn of Blasting,Rare,Wondrous Item,No SubType,Not Required,"Damage: Thunder, Deafened, Damage, Debuff, Combat"
+
+Horn of Silent Alarm,Common,Wondrous Item,No SubType,Not Required,
+
+Horn of the Endless Maze,Rare,Wondrous Item,No SubType,Not Required,Summoning
+
+Horn of Valhalla,Varies,Wondrous Item,No SubType,Not Required,Summoning
+
+Horned Ring,Very Rare,Ring,No SubType,Required,"Warding, Jewelry"
+
+Horseshoes of a Zephyr,Very Rare,Wondrous Item,No SubType,Not Required,"Movement, Exploration"
+
+Horseshoes of Speed,Rare,Wondrous Item,No SubType,Not Required,"Buff, Movement, Exploration"
+
+Hunter's Coat,Very Rare,Armor,Leather,Required,"Bonus: Armor Class, Combat, Warding"
+
+Icon of Ravenloft,Legendary,Wondrous Item,No SubType,Required,"Creature of Good Alignment, Healing, Utility"
+
+Iggwilv's Cauldron,Artifact,Wondrous Item,No SubType,Required,spellcaster
+
+Illuminatorï¿½s Tattoo,Common,Wondrous Item,No SubType,Required,
+
+Illusionist's Bracers,Very Rare,Wondrous Item,No SubType,Required,"Utility, Combat, Cantrip, spellcaster, Wristwear"
+
+Imbued Wood Focus,Common,Wondrous Item,No SubType,Required,
+
+Immovable Rod,Uncommon,Rod,No SubType,Not Required,Utility
+
+Infernal Puzzle Box,Uncommon,Wondrous Item,No SubType,Not Required,
+
+Infernal Tack,Legendary,Wondrous Item,No SubType,Required,"creature of evil alignment, Summoning"
+
+Infiltratorï¿½s Key,Legendary,Wondrous Item,No SubType,Required,"Advantage: Ability Checks, Advantage: Stealth, Proficiency: Thieves' Tools"
+
+Ingot of the Skold Rune,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Armor Class, Warding"
+
+Inquisitiveï¿½s Goggles,Uncommon,Wondrous Item,No SubType,Required,
+
+Insignia of Claws,Uncommon,Wondrous Item,No SubType,Not Required,"Bonus: Natural Attacks, Damage: Natural Attacks, Damage, Buff, Combat"
+
+Instant Fortress,Rare,Wondrous Item,No SubType,Not Required,"Utility, Warding"
+
+Instrument of Illusions,Common,Wondrous Item,No SubType,Required,
+
+Instrument of Scribing,Common,Wondrous Item,No SubType,Required,
+
+Instrument of the Bards,Varies,Wondrous Item,No SubType,Required,"bard, Damage, Control, Buff, Utility, Exploration, Combat, Instrument"
+
+Ioun Stone,Varies,Wondrous Item,No SubType,Required,"Bonus: Armor Class, Bonus: Strength Score, Bonus: Dexterity Score, Bonus: Constitution Score, Bonus: Intelligence Score, Bonus: Wisdom Score, Bonus: Charisma Score, Bonus: Hit Points, Buff, Detection, Utility, Warding"
+
+Ioun Stone of Historical Knowledge,Rare,Wondrous Item,No SubType,Required,"Proficiency: History, Buff"
+
+Ioun Stone of Language Knowledge,Rare,Wondrous Item,No SubType,Required,Buff
+
+Ioun Stone of Natural Knowledge,Rare,Wondrous Item,No SubType,Required,"Proficiency: Nature, Buff"
+
+Ioun Stone of Religious Knowledge,Rare,Wondrous Item,No SubType,Required,"Proficiency: Religion, Buff"
+
+Ioun Stone of Self-Preservation,Rare,Wondrous Item,No SubType,Required,"Bonus: Intelligence Saving Throws, Buff"
+
+Ioun Stone of Supreme Intellect,Rare,Wondrous Item,No SubType,Required,"Bonus: Intelligence Ability Checks, Buff"
+
+Ioun Stone of Vitality,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Saving Throws, Healing"
+
+Irian Rosewood Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
+
+Iron Bands of Bilarro,Rare,Wondrous Item,No SubType,Not Required,"Control, Utility"
+
+Iron Bands of Binding,Rare,Wondrous Item,No SubType,Not Required,"Control, Utility"
+
+Iron Flask,Legendary,Wondrous Item,No SubType,Not Required,Control
+
+Ironfang,Legendary,Weapon,War Pick,Required,"Damage: Thunder, Resistance: Acid, Sense: Tremorsense, Bonus: Magic, Language: Terran, Damage, Buff, Combat"
+
+Javelin of Backbiting,Very Rare,Weapon,Javelin,Required,"Damage: Additional, Bonus: Magic, Bonus: Weapon Attack Range, Damage, Buff, Combat, Cursed, Thrown"
+
+Javelin of Lightning,Uncommon,Weapon,Javelin,Not Required,"Damage: Lightning, Damage, Combat, Thrown"
+
+Jewel of Three Prayers,Legendary,Wondrous Item,No SubType,Required,"Bonus: Armor Class, Set: Innate Speed (Swimming)"
+
+Keoghtom's Ointment,Uncommon,Wondrous Item,No SubType,Not Required,"Bonus: Hit Points, Ceases Poison, Cures Diseases, Healing, Consumable"
+
+Keycharm,Common,Wondrous Item,No SubType,Required,creature with the Mark of Warding
+
+"Khrusor, Spear of Heliod",Artifact,Weapon,Spear,Required,"Damage: Radiant, Bonus: Magic, Thrown, Versatile"
+
+Knaveï¿½s Eye Patch,Rare,Wondrous Item,No SubType,Required,Advantage: Perception
+
+Korolnor Scepter,Legendary,Wondrous Item,No SubType,Required,"Bonus: Magic, Teleportation, Damage, Control"
+
+Kyrzin's Ooze,Very Rare,Wondrous Item,No SubType,Required,"Resistance: Acid, Resistance: Poison, Immunity: Poisoned, Buff, Utility, Symbiotic"
+
+Kythrian Manchineel Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
+
+Lamannian Oak Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
+
+Lantern of Revealing,Uncommon,Wondrous Item,No SubType,Not Required,Detection
+
+Lantern of Tracking,Common,Wondrous Item,No SubType,Not Required,
+
+Lash of Shadows,Artifact,Weapon,Whip,Required,"Bonus: Magic, Language: Abyssal, Language: Draconic, Finesse, Reach"
+
+Last Stand Armor,Very Rare,Armor,Breastplate,Not Required,Bonus: Armor Class
+
+Leather Golem Armor,Rare,Armor,Leather,Required,"Bonus: Armor Class, Resistance: Lightning"
+
+Libram of Souls and Flesh,Rare,Wondrous Item,No SubType,Required,wizard
+
+Lifewell Tattoo,Very Rare,Wondrous Item,No SubType,Required,Resistance: Necrotic
+
+Lightbringer,Uncommon,Weapon,Mace,Not Required,"Bonus: Magic, Damage, Combat"
+
+Living Armor,Very Rare,Armor,Plate,Required,"Bonus: Armor Class, Resistance: Necrotic, Resistance: Poison, Resistance: Psychic, Combat, Warding, Symbiotic, Str 15 Required, Stealth Disadvantage"
+
+Living Gloves,Uncommon,Wondrous Item,No SubType,Required,"Proficiency: Sleight of Hand, Proficiency: Thieves' Tools, Proficiency: Choose a Musical Instrument or Artisan's Tools, Symbiotic"
+
+Living Loot Satchel,Varies,Wondrous Item,No SubType,Not Required,
+
+Loadstone,Rare,Wondrous Item,No SubType,Not Required,"Speed Reduction: Impose, Carrying Capacity: Multiplier, Movement, Cursed"
+
+Lock of Trickery,Common,Wondrous Item,No SubType,Not Required,
+
+Lordï¿½s Ensemble,Very Rare,Wondrous Item,No SubType,Required,creature with a humanoid build
+
+Lorehold Primer,Uncommon,Wondrous Item,No SubType,Required,"Bonus: History, Bonus: Religion, spellcaster"
+
+Lost Crown of Besilmer,Legendary,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Resistance: Psychic, Buff, Warding"
+
+Lubaï¿½s Tarokka of Souls,Artifact,Wondrous Item,No SubType,Required,
+
+Luck Blade,Legendary,Weapon,No SubType,Required,"Bonus: Saving Throws, Bonus: Magic, Damage, Control, Buff, Combat"
+
+Luxon Beacon,Legendary,Wondrous Item,No SubType,Not Required,
+
+Lyre of Building,Rare,Wondrous Item,No SubType,Required,bard
+
+Mabaran Ebony Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
+
+Mace of Disruption,Rare,Weapon,Mace,Required,"Damage: Radiant, Damage, Bane"
+
+Mace of Smiting,Rare,Weapon,Mace,Not Required,"Bonus: Magic, Damage, Combat, Bane"
+
+Mace of Terror,Rare,Weapon,Mace,Required,"Frightened, Damage, Control, Debuff, Combat"
+
+Mace of the Black Crown,Artifact,Weapon,Mace,Required,"Damage: Fire, Bonus: Magic, Language: Infernal"
+
+Mantle of Spell Resistance,Rare,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Warding, Outerwear"
+
+Manual of Bodily Health,Very Rare,Wondrous Item,No SubType,Not Required,"Bonus: Constitution Score, Bonus: Ability Score Maximum, Buff"
+
+Manual of Gainful Exercise,Very Rare,Wondrous Item,No SubType,Not Required,"Bonus: Strength Score, Bonus: Ability Score Maximum, Buff"
+
+Manual of Golems,Very Rare,Wondrous Item,No SubType,Not Required,"Creation, Consumable"
+
+Manual of Quickness of Action,Very Rare,Wondrous Item,No SubType,Not Required,"Bonus: Dexterity Score, Bonus: Ability Score Maximum, Buff"
+
+Mariner's Armor,Uncommon,Armor,No SubType,Not Required,"Set: Innate Speed (Swimming), Movement, Exploration, Combat, Warding"
+
+Marvelous Pigments,Very Rare,Wondrous Item,No SubType,Not Required,"Utility, Consumable"
+
+Mask of the Beast,Uncommon,Wondrous Item,No SubType,Not Required,Utility
+
+Mask of the Dragon Queen,Artifact,Wondrous Item,No SubType,Required,"Resistance: Acid, Resistance: Cold, Resistance: Fire, Resistance: Lightning, Resistance: Poison, Bonus: Legendary Resistance, Control, Warding"
+
+Masque Charm,Common,Wondrous Item,No SubType,Not Required,
+
+Masquerade Tattoo,Common,Wondrous Item,No SubType,Required,
+
+Masterï¿½s Amulet,Rare,Wondrous Item,No SubType,Not Required,
+
+"Mastix, Whip of Erebos",Artifact,Weapon,Whip,Required,"Damage: Necrotic, Bonus: Magic, Damage, Combat, Finesse, Reach"
+
+Matalotok,Legendary,Weapon,Warhammer,Required,"Damage: Cold, Immunity: Cold, Versatile"
+
+Medal of Muscle,Common,Wondrous Item,No SubType,Not Required,"Advantage: Strength Saving Throws, Advantage: Strength Ability Checks"
+
+Medal of the Conch,Common,Wondrous Item,No SubType,Not Required,Set: Innate Speed (Swimming)
+
+Medal of the Horizonback,Common,Wondrous Item,No SubType,Not Required,Bonus: Armor Class
+
+Medal of the Maze,Common,Wondrous Item,No SubType,Not Required,Advantage: Wisdom Ability Checks
+
+Medal of the Meat Pie,Common,Wondrous Item,No SubType,Not Required,Bonus: Temporary Hit Points
+
+Medal of the Wetlands,Common,Wondrous Item,No SubType,Not Required,
+
+Medal of Wit,Common,Wondrous Item,No SubType,Not Required,"Advantage: Intelligence Saving Throws, Advantage: Intelligence Ability Checks"
+
+Medallion of Thoughts,Uncommon,Wondrous Item,No SubType,Required,"Social, Detection"
+
+Mighty Servant of Leuk-o,Artifact,Wondrous Item,No SubType,Required,
+
+Mind Blade,Rare,Weapon,Longsword,Required,"Damage: Psychic, specific mind flayer or one of its thralls, Damage, Combat, Versatile"
+
+Mind Carapace Armor,Uncommon,Armor,Plate,Required,"Advantage: Intelligence Saving Throws, Advantage: Wisdom Saving Throws, Advantage: Charisma Saving Throws, Immunity: Frightened, specific individual, Warding, Str 15 Required, Stealth Disadvantage"
+
+Mind Lash,Rare,Weapon,Whip,Required,"Damage: Psychic, mind flayer, Finesse, Reach"
+
+Mirror of Life Trapping,Very Rare,Wondrous Item,No SubType,Not Required,"Control, Utility"
+
+Mirror of the Past,Rare,Wondrous Item,No SubType,Not Required,Utility
+
+Mithral Armor,Uncommon,Armor,No SubType,Not Required,"Stealth Disadvantage: Remove, Combat, Warding"
+
+"Mithral Half Plate, +1",Rare,Armor,Half Plate,Not Required,"Bonus: Armor Class, Stealth Disadvantage: Remove, Combat, Warding, Stealth Disadvantage"
+
+Mizzium Apparatus,Uncommon,Wondrous Item,No SubType,Required,"sorcerer, warlock, or wizard"
+
+Mizzium Armor,Rare,Armor,Breastplate,Not Required,Immunity: Critical Hits
+
+Mizzium Mortar,Rare,Wondrous Item,No SubType,Not Required,
+
+Molten Bronze Skin,Rare,Armor,Breastplate,Required,"Resistance: Fire, Set: Armor Class, Stealth Disadvantage: Remove"
+
+Moodmark Paint,Common,Wondrous Item,No SubType,Not Required,
+
+Moon Sickle,Varies,Weapon,Sickle,Required,"Bonus: Spell Attacks, Bonus: Hit Points, Bonus: Magic, Bonus: Spell Save DC, Bonus to attacks, spell attacks, and spell save DCs for druids and rangers. Also gives bonus to healing spells., druid or ranger, Light"
+
+Moonblade,Legendary,Weapon,Longsword,Required,"Elf or Half-Elf of Neutral Good Alignment, Damage, Buff, Combat, Sentient, Versatile"
+
+Moon-Touched Sword,Common,Weapon,Greatsword,Not Required,"Utility, Heavy, Two-Handed"
+
+Mummy Rot Antidote,Uncommon,Potion,No SubType,Not Required,
+
+Murgaxorï¿½s Orb,Legendary,Wondrous Item,No SubType,Required,
+
+Mystery Key,Common,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
+
+Natureï¿½s Mantle,Uncommon,Wondrous Item,No SubType,Required,druid or ranger
+
+Navigation Orb,Very Rare,Wondrous Item,No SubType,Required,"Control, Exploration"
+
+Necklace of Adaptation,Uncommon,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Buff, Warding, Jewelry"
+
+Necklace of Fireballs,Rare,Wondrous Item,No SubType,Not Required,"Damage, Combat, Jewelry"
+
+Necklace of Prayer Beads,Rare,Wondrous Item,No SubType,Required,"Cleric, Druid, or Paladin, Healing, Summoning, Damage, Buff, Movement, Jewelry"
+
+Needle of Mending,Rare,Weapon,Dagger,Required,"Bonus: Magic, Damage, Combat, Finesse, Light, Thrown"
+
+Nepenthe,Legendary,Weapon,Longsword,Required,"Damage: Radiant, Advantage: Saving Throws, Bonus: Magic, Paladin, Damage, Combat, Warding, Versatile"
+
+Nether Scroll of Azumar,Legendary,Scroll,No SubType,Not Required,"Advantage: Saving Throws, Bonus: Ability Score Maximum, Stacking Bonus: Intelligence Score"
+
+Night Caller,Uncommon,Wondrous Item,No SubType,Not Required,"Summoning, Control"
+
+Nightfall Pearl,Legendary,Wondrous Item,No SubType,Required,
+
+Nine Lives Stealer,Very Rare,Weapon,Longsword,Required,"Bonus: Magic, Damage, Combat, Versatile"
+
+Nolzur's Marvelous Pigments,Very Rare,Wondrous Item,No SubType,Not Required,"Utility, Consumable"
+
+Oathbow,Very Rare,Weapon,Longbow,Required,"Damage: Piercing, Damage, Combat, Bane, Ammunition, Heavy, Range, Two-Handed"
+
+Obsidian Flint Dragon Plate,Legendary,Armor,Plate,Not Required,"Bonus: Armor Class, Advantage: Saving Throws, Advantage: Athletics, Advantage: Acrobatics, Resistance: Poison, Str 15 Required, Stealth Disadvantage"
+
+Obviatorï¿½s Lenses,Varies,Wondrous Item,No SubType,Not Required,
+
+Occultant Abacus,Varies,Wondrous Item,No SubType,Not Required,
+
+Oil of Etherealness,Rare,Potion,No SubType,Not Required,"Movement, Utility, Consumable"
+
+Oil of Sharpness,Very Rare,Potion,No SubType,Not Required,"Bonus: Magic, Damage, Buff, Combat, Consumable"
+
+Oil of Slipperiness,Uncommon,Potion,No SubType,Not Required,"Control, Movement, Utility, Consumable"
+
+Opal of the Ild Rune,Rare,Wondrous Item,No SubType,Required,"Resistance: Cold, Damage, Warding"
+
+Orb of Direction,Common,Wondrous Item,No SubType,Not Required,Exploration
+
+Orb of Dragonkind,Artifact,Wondrous Item,No SubType,Required,"Healing, Summoning, Control, Scrying, Detection"
+
+Orb of Gonging,Common,Wondrous Item,No SubType,Not Required,Utility
+
+Orb of Shielding,Common,Wondrous Item,No SubType,Required,"Warding, Focus"
+
+Orb of the Stein Rune,Rare,Wondrous Item,No SubType,Required,"Immunity: Petrified, Movement, Warding"
+
+Orb of the Veil,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Wisdom Score, Advantage: Wisdom Ability Checks, Sense: Darkvision, Bonus: Ability Score Maximum"
+
+Orb of Time,Common,Wondrous Item,No SubType,Not Required,Exploration
+
+Orc Stone,Uncommon,Wondrous Item,No SubType,Required,recipient only
+
+Orcsplitter,Legendary,Weapon,Greataxe,Required,"Immunity: Frightened, Bonus: Magic, Good-Aligned Dwarf, Fighter, or Paladin, Damage, Combat, Warding, Sentient, Heavy, Two-Handed"
+
+Orcus Figurine,Unknown Rarity,Wondrous Item,No SubType,Not Required,
+
+Ornithopter of Flying,Very Rare,Wondrous Item,No SubType,Not Required,Set: Speed (Flying)
+
+Orrery of the Wanderer,Artifact,Wondrous Item,No SubType,Required,Bonus: Armor Class
+
+Outer Essence Shard,Rare,Wondrous Item,No SubType,Required,"Damage: Necrotic, Bonus: Temporary Hit Points, sorcerer"
+
+Paper Bird,Uncommon,Wondrous Item,No SubType,Not Required,
+
+Pariahï¿½s Shield,Rare,Armor,Shield,Required,
+
+Pearl of Power,Uncommon,Wondrous Item,No SubType,Required,"Spellcaster, Buff, Utility"
+
+Pennant of the Vind Rune,Very Rare,Wondrous Item,No SubType,Required,"Buff, Movement"
+
+Peregrine Mask,Very Rare,Wondrous Item,No SubType,Required,"Set: Innate Speed (Flying), Advantage: Initiative"
+
+Perfume of Bewitching,Common,Wondrous Item,No SubType,Not Required,"Buff, Social"
+
+Periapt of Health,Uncommon,Wondrous Item,No SubType,Not Required,"Immunity: Disease, Immunity: Disease, Warding, Jewelry"
+
+Periapt of Proof against Poison,Rare,Wondrous Item,No SubType,Not Required,"Immunity: Poison, Immunity: Poisoned, Warding, Jewelry"
+
+Periapt of Wound Closure,Uncommon,Wondrous Item,No SubType,Required,"Healing, Warding, Jewelry"
+
+Philter of Love,Uncommon,Potion,No SubType,Not Required,"Charmed, Control, Consumable"
+
+Piercer,Rare,Weapon,Shortsword,Required,"Bonus: Magic, Damage, Combat, Finesse, Light"
+
+Pipe of Remembrance,Common,Wondrous Item,No SubType,Not Required,Utility
+
+Pipe of Smoke Monsters,Common,Wondrous Item,No SubType,Not Required,Social
+
+Pipes of Haunting,Uncommon,Wondrous Item,No SubType,Not Required,"Frightened, Control, Instrument"
+
+Pipes of the Sewers,Uncommon,Wondrous Item,No SubType,Required,"Summoning, Control, Instrument"
+
+Piwafwi (Cloak of Elvenkind),Uncommon,Wondrous Item,No SubType,Required,"Advantage: Stealth, Deception"
+
+Piwafwi of Fire Resistance,Rare,Wondrous Item,No SubType,Required,"Advantage: Stealth, Resistance: Fire, Deception, Warding"
+
+Pixie Dust,Uncommon,Wondrous Item,No SubType,Not Required,Set: Speed (Flying)
+
+Planecallerï¿½s Codex,Rare,Wondrous Item,No SubType,Required,wizard
+
+Plate Armor of Etherealness,Legendary,Armor,Plate,Required,"Utility, Combat, Warding, Str 15 Required, Stealth Disadvantage"
+
+Platinum Scarf,Legendary,Wondrous Item,No SubType,Required,
+
+Pole of Angling,Common,Wondrous Item,No SubType,Not Required,Utility
+
+Pole of Collapsing,Common,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
+
+Polymorph Blade,Very Rare,Weapon,No SubType,Required,
+
+Portable Hole,Rare,Wondrous Item,No SubType,Not Required,"Utility, Container"
+
+Portfolio Keeper,Varies,Wondrous Item,No SubType,Not Required,
+
+Pot of Awakening,Common,Wondrous Item,No SubType,Not Required,
+
+Potion of Advantage,Uncommon,Potion,No SubType,Not Required,"Advantage: Saving Throws, Advantage: Ability Checks, Advantage: Melee Attacks, Advantage: Ranged Attacks"
+
+Potion of Animal Friendship,Uncommon,Potion,No SubType,Not Required,"Control, Communication, Consumable"
+
+Potion of Aqueous Form,Rare,Potion,No SubType,Not Required,"Shapechanging, Consumable"
+
+Potion of Clairvoyance,Rare,Potion,No SubType,Not Required,"Scrying, Detection, Consumable"
+
+Potion of Climbing,Common,Potion,No SubType,Not Required,"Advantage: Athletics, Set: Innate Speed (Climbing), Buff, Movement, Consumable"
+
+Potion of Comprehension,Common,Potion,No SubType,Not Required,Consumable
+
+Potion of Diminution,Rare,Potion,No SubType,Not Required,"Control, Utility, Consumable"
+
+Potion of Dragon's Majesty,Legendary,Potion,No SubType,Not Required,
+
+Potion of Fire Breath,Uncommon,Potion,No SubType,Not Required,"Damage: Fire, Damage"
+
+Potion of Flying,Very Rare,Potion,No SubType,Not Required,"Set: Innate Speed (Flying), Movement, Utility, Consumable"
+
+Potion of Gaseous Form,Rare,Potion,No SubType,Not Required,"Movement, Utility, Warding, Consumable"
+
+Potion of Giant Size,Legendary,Potion,No SubType,Not Required,"Buff, Shapechanging"
+
+Potion of Giant Strength,Varies,Potion,No SubType,Not Required,"Set: Strength Score, Buff, Consumable"
+
+Potion of Growth,Uncommon,Potion,No SubType,Not Required,"Control, Utility, Consumable"
+
+Potion of Healing,Common,Potion,No SubType,Not Required,"Bonus: Hit Points, Healing, Consumable"
+
+Potion of Heroism,Rare,Potion,No SubType,Not Required,"Bonus: Temporary Hit Points, Healing, Buff, Consumable"
+
+Potion of Invisibility,Very Rare,Potion,No SubType,Not Required,"Invisible, Deception, Consumable"
+
+Potion of Invulnerability,Rare,Potion,No SubType,Not Required,"Resistance: All, Warding, Consumable"
+
+Potion of Longevity,Very Rare,Potion,No SubType,Not Required,"Reduces Physical Age, Control, Buff, Consumable"
+
+Potion of Maximum Power,Rare,Potion,No SubType,Not Required,
+
+Potion of Mind Control,Varies,Potion,No SubType,Not Required,"Control, Consumable"
+
+Potion of Mind Reading,Rare,Potion,No SubType,Not Required,"Control, Detection, Consumable"
+
+Potion of Poison,Uncommon,Potion,No SubType,Not Required,"Consumable, Cursed"
+
+Potion of Possibility,Very Rare,Potion,No SubType,Not Required,
+
+Potion of Resistance,Uncommon,Potion,No SubType,Not Required,"Resistance: Acid, Resistance: Cold, Resistance: Fire, Resistance: Force, Resistance: Lightning, Resistance: Necrotic, Resistance: Poison, Resistance: Psychic, Resistance: Radiant, Resistance: Thunder, Warding, Consumable"
+
+Potion of Speed,Very Rare,Potion,No SubType,Not Required,"Buff, Movement, Consumable"
+
+Potion of Vitality,Very Rare,Potion,No SubType,Not Required,"Cures Disease, Removes Poison, Max HP from Hit Dice, Healing, Consumable"
+
+Potion of Watchful Rest,Common,Potion,No SubType,Not Required,Consumable
+
+Potion of Water Breathing,Uncommon,Potion,No SubType,Not Required,"Breathe Underwater, Buff, Utility, Consumable"
+
+Powered Armor,Legendary,Armor,Plate,Required,"Bonus: Armor Class, Set: Strength Score, Advantage: Death Saving Throws, Str 15 Required, Stealth Disadvantage"
+
+Pressure Capsule,Common,Wondrous Item,No SubType,Not Required,"Utility, Exploration, Consumable"
+
+Prismari Primer,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Acrobatics, Bonus: Performance, spellcaster"
+
+Professor Orb,Rare,Wondrous Item,No SubType,Not Required,"Utility, Sentient"
+
+Professor Skant,Rare,Wondrous Item,No SubType,Not Required,"Utility, Sentient"
+
+Propeller Helm,Uncommon,Wondrous Item,No SubType,Required,Small humanoid
+
+Prosthetic Limb,Common,Wondrous Item,No SubType,Not Required,
+
+Protective Verses,Rare,Wondrous Item,No SubType,Required,wizard
+
+Psi Crystal,Uncommon,Wondrous Item,No SubType,Required,"Language: Telepathy, creature with an Intelligence score of 3 or higher"
+
+Pyroconverger,Uncommon,Wondrous Item,No SubType,Required,
+
+Pyxis of Pandemonium,Legendary,Wondrous Item,No SubType,Not Required,"Buff, Cursed"
+
+Quaal's Feather Token,Rare,Wondrous Item,No SubType,Not Required,"Creation, Summoning, Damage, Control, Movement, Utility, Exploration, Combat, Consumable"
+
+Quandrix Primer,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Arcana, Bonus: Nature, spellcaster"
+
+Quiver of Ehlonna,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Container"
+
+Radiance,Unknown Rarity,Wand,No SubType,Required,"Bonus: Spell Attacks, Spellcaster, Buff, Combat"
+
+Rakdos Riteknife,Legendary,Weapon,Dagger,Required,"Damage: Necrotic, Bonus: Magic, Finesse, Light, Thrown"
+
+Red Dragon Mask,Legendary,Wondrous Item,No SubType,Required,"Advantage: Charisma Ability Checks, Resistance: Fire, Sense: Blindsight, Sense: Darkvision, Language: Draconic, Bonus: Unarmored Armor Class, Buff"
+
+Reincarnation Dust,Very Rare,Wondrous Item,No SubType,Not Required,
+
+Restorative Ointment,Uncommon,Wondrous Item,No SubType,Not Required,"Bonus: Hit Points, Ceases Poison, Cures Diseases, Healing, Consumable"
+
+Revelerï¿½s Concertina,Rare,Wondrous Item,No SubType,Required,"Bonus: Spell Save DC, bard"
+
+Revenant Double-Bladed Scimitar,Unknown Rarity,Weapon,Double-Bladed Scimitar,Not Required,"Bonus: Armor Class, Weapon Property: Finesse, Damage, Combat, Special, Two-Handed"
+
+Rhythm-Makerï¿½s Drum,Varies,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Bonus: Spell Save DC, bard"
+
+Ring of Air Elemental Command,Legendary,Ring,No SubType,Required,"Resistance: Lightning, Set: Innate Speed (Flying), Control, Movement, Warding, Jewelry"
+
+Ring of Animal Influence,Rare,Ring,No SubType,Not Required,"Control, Communication, Utility, Jewelry"
+
+Ring of Djinni Summoning,Legendary,Ring,No SubType,Required,"Summoning, Control, Jewelry"
+
+Ring of Earth Elemental Command,Legendary,Ring,No SubType,Required,"Resistance: Acid, Control, Movement, Warding, Jewelry"
+
+Ring of Elemental Command,Legendary,Wondrous Item,No SubType,Required,"Control, Movement, Warding, Jewelry"
+
+Ring of Evasion,Rare,Ring,No SubType,Required,"Warding, Jewelry"
+
+Ring of Feather Falling,Rare,Ring,No SubType,Required,"Movement, Warding, Jewelry"
+
+Ring of Fire Elemental Command,Legendary,Ring,No SubType,Required,"Resistance: Fire, Immunity: Fire, Damage, Control, Warding, Jewelry"
+
+Ring of Free Action,Rare,Ring,No SubType,Required,"Negates Difficult Terrain, Magical Speed Reduction, Immune: Paralyzed or Restrained (Magical Sources), Movement, Warding, Jewelry"
+
+Ring of Invisibility,Legendary,Ring,No SubType,Required,"Invisible, Deception, Jewelry"
+
+Ring of Jumping,Uncommon,Ring,No SubType,Required,"Buff, Movement, Jewelry"
+
+Ring of Mind Shielding,Uncommon,Ring,No SubType,Required,"Deception, Warding, Jewelry"
+
+Ring of Obscuring,Uncommon,Ring,No SubType,Required,
+
+Ring of Protection,Rare,Ring,No SubType,Required,"Bonus: Armor Class, Bonus: Saving Throws, Warding, Jewelry"
+
+Ring of Red Fury,Very Rare,Ring,No SubType,Required,Set: Innate Speed (Swimming)
+
+Ring of Regeneration,Very Rare,Ring,No SubType,Required,"Regain 1d6 Hit Points Every 10 Minutes, Regrow Lost Body Parts, Healing, Jewelry"
+
+Ring of Resistance,Rare,Ring,No SubType,Required,"Resistance: Acid, Resistance: Cold, Resistance: Fire, Resistance: Force, Resistance: Lightning, Resistance: Necrotic, Resistance: Poison, Resistance: Psychic, Resistance: Radiant, Resistance: Thunder, Warding, Jewelry"
+
+Ring of Shooting Stars,Very Rare,Ring,No SubType,Required,"Damage, Utility, Combat, Jewelry"
+
+Ring of Spell Storing,Rare,Ring,No SubType,Required,"Buff, Utility, Jewelry"
+
+Ring of Spell Turning,Legendary,Ring,No SubType,Required,"Advantage: Saving Throws, Warding, Jewelry"
+
+Ring of Swimming,Uncommon,Ring,No SubType,Not Required,"Set: Innate Speed (Swimming), Movement, Jewelry"
+
+Ring of Telekinesis,Very Rare,Ring,No SubType,Required,"Control, Utility, Jewelry"
+
+Ring of Temporal Salvation,Rare,Ring,No SubType,Required,
+
+Ring of the Ram,Rare,Ring,No SubType,Required,"Damage: Force, Damage, Control, Combat, Jewelry"
+
+Ring of Three Wishes,Legendary,Ring,No SubType,Not Required,"Buff, Utility, Consumable, Jewelry"
+
+Ring of Truth Telling,Uncommon,Ring,No SubType,Required,Advantage: Insight
+
+Ring of Warmth,Uncommon,Ring,No SubType,Required,"Resistance: Cold, Exploration, Warding, Jewelry"
+
+Ring of Water Elemental Command,Legendary,Ring,No SubType,Required,"Set: Innate Speed (Swimming), Walk on Liquid Surfaces, Breathe Underwater, Control, Buff, Movement, Jewelry"
+
+Ring of Water Walking,Uncommon,Ring,No SubType,Not Required,"Walk on Liquid Surfaces, Movement, Jewelry"
+
+Ring of Winter,Artifact,Ring,No SubType,Required,"Immunity: Cold, Control, Buff, Utility, Deception, Warding, Sentient"
+
+Ring of X-ray Vision,Rare,Ring,No SubType,Required,"See Into and Through Solid Matter Within 30 Feet, Detection, Utility, Jewelry"
+
+Rings of Shared Suffering,Uncommon,Ring,No SubType,Required,
+
+Risian Pine Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
+
+Robe of Eyes,Rare,Wondrous Item,No SubType,Required,"Advantage: Perception, Set Base: Darkvision, See Invisible (and into Ethereal Plane) within 120 ft., Detection, Outerwear"
+
+Robe of Scintillating Colors,Very Rare,Wondrous Item,No SubType,Required,"Stunned, Control, Debuff, Outerwear"
+
+Robe of Serpents,Uncommon,Wondrous Item,No SubType,Required,Summoning
+
+Robe of Stars,Very Rare,Wondrous Item,No SubType,Required,"Bonus: Saving Throws, Teleportation, Damage, Combat, Warding, Outerwear"
+
+Robe of Summer,Rare,Wondrous Item,No SubType,Required,"Resistance: Cold, Buff"
+
+Robe of the Archmagi,Legendary,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Advantage: Saving Throws, Bonus: Spell Save DC, Set: Unarmored Armor Class, sorcerer, warlock, or wizard, Buff, Warding, Outerwear"
+
+Robe of Useful Items,Uncommon,Wondrous Item,No SubType,Not Required,"Utility, Outerwear"
+
+Rod of Absorption,Very Rare,Rod,No SubType,Required,"Utility, Warding"
+
+Rod of Alertness,Very Rare,Rod,No SubType,Required,"Advantage: Perception, Advantage: Initiative, Bonus: Passive Perception, Detection, Utility, Warding"
+
+Rod of Lordly Might,Legendary,Rod,No SubType,Required,"Damage, Control, Utility, Exploration, Combat"
+
+Rod of Resurrection,Legendary,Rod,No SubType,Required,"cleric, druid, or paladin, Healing"
+
+Rod of Retribution,Uncommon,Rod,No SubType,Required,
+
+Rod of Rulership,Rare,Rod,No SubType,Required,"Charmed, Control"
+
+Rod of Security,Very Rare,Rod,No SubType,Not Required,"Healing, Teleportation, Utility"
+
+Rod of the Pact Keeper,Varies,Rod,No SubType,Required,"Bonus: Warlock Spell Attacks, Bonus: Warlock Spell Save DC, Warlock, Buff"
+
+Rod of the Vonindod,Rare,Rod,No SubType,Required,Detection
+
+Rope of Climbing,Uncommon,Wondrous Item,No SubType,Not Required,"Advantage: Athletics, Movement, Utility, Exploration"
+
+Rope of Entanglement,Rare,Wondrous Item,No SubType,Not Required,"Restrained, Control"
+
+Rope of Mending,Common,Wondrous Item,No SubType,Not Required,"Utility, Exploration"
+
+Rotor of Return,Very Rare,Wondrous Item,No SubType,Required,Bonus: Constitution Saving Throws
+
+Ruby of the War Mage,Common,Wondrous Item,No SubType,Required,spellcaster
+
+Ruby Weave Gem,Legendary,Wondrous Item,No SubType,Required,Spellcaster
+
+Ruidium Armor,Very Rare,Armor,No SubType,Required,"Resistance: Psychic, Set: Innate Speed (Swimming)"
+
+Ruidium Shield,Very Rare,Armor,Shield,Required,"Resistance: Psychic, Set: Innate Speed (Swimming)"
+
+Ruidium Weapon,Very Rare,Weapon,No SubType,Required,"Damage: Psychic, Set: Innate Speed (Swimming)"
+
+Ruinblade,Legendary,Weapon,Greatsword,Required,"Damage: Force, Bonus: Magic, Heavy, Two-Handed"
+
+Ruin's Wake,Artifact,Weapon,Spear,Required,"Bonus: Magic, Language: Orc, Language: Abyssal, Thrown, Versatile"
+
+Ruinstone,Artifact,Wondrous Item,No SubType,Not Required,
+
+Saddle of the Cavalier,Uncommon,Wondrous Item,No SubType,Not Required,"Can't be Dismounted Against Your Will, Movement, Warding"
+
+Saint Markoviaï¿½s Thighbone,Rare,Weapon,Mace,Required,"Damage: Radiant, Damage, Combat"
+
+Sapphire Buckler,Very Rare,Armor,Shield,Required,"Resistance: Psychic, Resistance: Thunder"
+
+Scaled Ornament,Varies,Wondrous Item,No SubType,Required,"Bonus: Armor Class, Advantage: Saving Throws, Set: Innate Speed (Flying), Immunity: Charmed, Immunity: Frightened"
+
+Scarab of Protection,Legendary,Wondrous Item,No SubType,Required,"Advantage: Saving Throws, Warding, Consumable, Jewelry"
+
+Scimitar of Speed,Very Rare,Weapon,Scimitar,Required,"Bonus: Magic, Extra Attack as Bonus Action, Damage, Combat, Finesse, Light"
+
+Scissors of Shadow Snipping,Rare,Wondrous Item,No SubType,Required,Fey or a Spellcaster
+
+Scorpion Armor,Rare,Armor,Plate,Required,"Bonus: Initiative, Buff, Cursed, Str 15 Required, Stealth Disadvantage"
+
+Scribeï¿½s Pen,Common,Wondrous Item,No SubType,Required,creature with the Mark of Scribing
+
+Scroll of Protection,Rare,Scroll,No SubType,Not Required,Warding
+
+Scroll of Tarrasque Summoning,Legendary,Scroll,No SubType,Not Required,
+
+Scroll of the Comet,Legendary,Scroll,No SubType,Not Required,"Damage, Consumable"
+
+Seeker Dart,Uncommon,Weapon,Dart,Not Required,"Damage: Lightning, Damage, Control, Finesse, Thrown"
+
+Sekolahian Worshiping Statuette,Common,Wondrous Item,No SubType,Not Required,
+
+Sending Stone,Uncommon,Wondrous Item,No SubType,Not Required,
+
+Sending Stones,Uncommon,Wondrous Item,No SubType,Not Required,Communication
+
+Sentinel Shield,Uncommon,Armor,Shield,Not Required,"Advantage: Perception, Advantage: Initiative, Bonus: Passive Perception, Detection, Warding"
+
+Serpent Scale Armor,Uncommon,Armor,Scale Mail,Not Required,"Set: AC Max Dex Modifier, Stealth Disadvantage"
+
+Serpentï¿½s Fang,Rare,Weapon,Longsword,Not Required,"Damage: Poison, Versatile"
+
+Shadowfell Brand Tattoo,Rare,Wondrous Item,No SubType,Required,"Advantage: Stealth, Sense: Darkvision"
+
+Shadowfell Shard,Rare,Wondrous Item,No SubType,Required,sorcerer
+
+Shard of the Ise Rune,Very Rare,Wondrous Item,No SubType,Required,"Resistance: Fire, Damage, Control, Warding"
+
+Shatterspike,Uncommon,Weapon,Longsword,Required,"Bonus: Magic, Damage, Buff, Combat, Versatile"
+
+Shavarran Birch Focus,Common,Wondrous Item,No SubType,Required,"Combat, Focus"
+
+Shield Guardian Amulet,Rare,Wondrous Item,No SubType,Required,humanoid
+
+Shield of Expression,Common,Armor,Shield,Not Required,Social
+
+Shield of Far Sight,Rare,Armor,Shield,Not Required,
+
+Shield of Missile Attraction,Rare,Armor,Shield,Required,"Resistance: Ranged Attacks, Warding, Cursed"
+
+Shield of the Hidden Lord,Legendary,Armor,Shield,Required,"Bonus: Armor Class, Resistance: Fire"
+
+Shield of the Uven Rune,Very Rare,Armor,Shield,Required,"Immunity: Cold, Damage, Warding"
+
+"Shield, +1",Uncommon,Armor,Shield,Not Required,"Bonus: Armor Class, Combat, Warding"
+
+"Shield, +2",Rare,Armor,Shield,Not Required,"Bonus: Armor Class, Combat, Warding"
+
+"Shield, +3",Very Rare,Armor,Shield,Not Required,"Bonus: Armor Class, Combat, Warding"
+
+Shiftweave,Common,Wondrous Item,No SubType,Not Required,
+
+Silken Spite,Artifact,Weapon,Rapier,Required,"Sense: Darkvision, Set: Innate Speed (Climbing), Bonus: Magic, Language: Elvish, Language: Abyssal, Language: Undercommon, Finesse"
+
+Silverquill Primer,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Intimidation, Bonus: Persuasion, spellcaster"
+
+Siren Song Lyre,Rare,Wondrous Item,No SubType,Required,
+
+Skyblinder Staff,Uncommon,Staff,No SubType,Required,"Bonus: Spell Attacks, Bonus: Magic"
+
+Sling Bullets of Althemone,Very Rare,Weapon,No SubType,Not Required,Bonus: Magic
+
+Slippers of Spider Climbing,Uncommon,Wondrous Item,No SubType,Required,"Set: Innate Speed (Climbing), Movement, Footwear"
+
+Smokepowder,Uncommon,Wondrous Item,No SubType,Not Required,
+
+Smoldering Armor,Common,Armor,Hide,Not Required,
+
+Snicker-Snack,Legendary,Weapon,Greatsword,Required,"Proficiency: Greatsword, Bonus: Magic, Bonus: Magic Item Attack With Charisma, Non-evil Creature, Heavy, Two-Handed"
+
+Soul Coin,Uncommon,Wondrous Item,No SubType,Not Required,
+
+Sovereign Glue,Legendary,Wondrous Item,No SubType,Not Required,"Utility, Consumable"
+
+Speaking Stone,Very Rare,Wondrous Item,No SubType,Not Required,Communication
+
+Spear of Backbiting,Very Rare,Weapon,Spear,Required,"Damage: Additional, Bonus: Magic, Bonus: Weapon Attack Range, Damage, Buff, Combat, Cursed, Thrown, Versatile"
+
+Spell Bottle,Legendary,Wondrous Item,No SubType,Required,
+
+Spell Gem,Varies,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem , Utility"
+
+Spell Gem (Amber),Very Rare,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
+
+Spell Gem (Bloodstone),Rare,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
+
+Spell Gem (Diamond),Legendary,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
+
+Spell Gem (Jade),Very Rare,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
+
+Spell Gem (Lapis Lazuli),Uncommon,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
+
+Spell Gem (Obsidian),Uncommon,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
+
+Spell Gem (Quartz),Rare,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
+
+Spell Gem (Ruby),Legendary,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
+
+Spell Gem (Star Ruby),Legendary,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
+
+Spell Gem (Topaz),Very Rare,Wondrous Item,No SubType,Required,"Spellcaster if Seeking to Imbue the Gem, Utility"
+
+Spell Scroll,Varies,Scroll,No SubType,Not Required,"Utility, Consumable"
+
+Spellguard Shield,Very Rare,Armor,Shield,Required,"Advantage: Saving Throws, Combat, Warding"
+
+Spellshard,Common,Wondrous Item,No SubType,Not Required,
+
+Spellwrought Tattoo,Varies,Wondrous Item,No SubType,Not Required,
+
+Sphere of Annihilation,Legendary,Wondrous Item,No SubType,Not Required,"Damage: Force, Damage, Control, Combat"
+
+Spider Staff,Rare,Staff,No SubType,Required,"Damage: Poison, Damage, Combat"
+
+Spiesï¿½ Murmur,Uncommon,Wondrous Item,No SubType,Required,
+
+Spyglass of Clairvoyance,Common,Wondrous Item,No SubType,Not Required,
+
+Staff of Adornment,Common,Staff,No SubType,Not Required,
+
+Staff of Birdcalls,Common,Staff,No SubType,Not Required,Utility
+
+Staff of Charming,Rare,Staff,No SubType,Required,"Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard, Control, Communication"
+
+Staff of Defense,Rare,Staff,No SubType,Required,"Bonus: Armor Class, Buff, Warding"
+
+Staff of Dunamancy,Very Rare,Staff,No SubType,Required,wizard
+
+Staff of Fate,Very Rare,Staff,Quarterstaff,Required,"Bonus: Magic, Versatile"
+
+Staff of Fire,Very Rare,Staff,No SubType,Required,"Resistance: Fire, Druid, Sorcerer, Warlock, or Wizard, Damage, Control, Combat, Warding"
+
+Staff of Flowers,Common,Staff,No SubType,Not Required,Social
+
+Staff of Frost,Very Rare,Staff,No SubType,Required,"Resistance: Cold, Druid, Sorcerer, Warlock, or Wizard, Damage, Control, Combat, Warding"
+
+Staff of Healing,Rare,Staff,No SubType,Required,"Bard, Cleric, or Druid, Healing"
+
+Staff of Power,Very Rare,Staff,No SubType,Required,"Bonus: Armor Class, Bonus: Saving Throws, Bonus: Spell Attacks, Damage: Force, Bonus: Magic, Sorcerer, Warlock, or Wizard, Damage, Control, Combat, Warding"
+
+Staff of Striking,Very Rare,Staff,No SubType,Required,"Damage: Force, Bonus: Magic, Damage, Combat"
+
+Staff of Swarming Insects,Rare,Staff,No SubType,Required,"Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard, Summoning, Control"
+
+Staff of the Adder,Uncommon,Staff,No SubType,Required,"cleric, druid, or warlock, Summoning, Damage"
+
+Staff of the Forgotten One,Artifact,Staff,No SubType,Required,"Damage: Necrotic, Immunity: Blinded, Immunity: Charmed, Immunity: Deafened, Immunity: Frightened, Immunity: Petrified, Immunity: Stunned, Bonus: Magic, sorcerer, warlock, or wizard, Damage, Buff, Combat, Cursed"
+
+Staff of the Ivory Claw,Rare,Staff,No SubType,Required,"Bonus: Spell Attacks, spellcaster"
+
+Staff of the Magi,Legendary,Staff,No SubType,Required,"Bonus: Spell Attacks, Advantage: Saving Throws, Bonus: Magic, Sorcerer, Warlock, or Wizard, Damage, Control, Detection, Combat, Deception, Warding"
+
+Staff of the Python,Uncommon,Staff,No SubType,Required,"Cleric, Druid, or Warlock, Summoning, Control"
+
+Staff of the Woodlands,Rare,Staff,No SubType,Required,"Bonus: Spell Attacks, Bonus: Magic, Druid, Creation, Control, Communication, Detection, Warding"
+
+Staff of Thunder and Lightning,Very Rare,Staff,No SubType,Required,"Bonus: Magic, Deafened, Stunned, Damage, Control, Debuff, Combat"
+
+Staff of Withering,Rare,Staff,No SubType,Required,"Damage: Necrotic, Cleric, Druid, or Warlock, Damage, Debuff, Combat"
+
+Steel,Very Rare,Weapon,Longsword,Required,"Bonus: Magic, Good-aligned Creature, Versatile"
+
+Stone of Controlling Earth Elementals,Rare,Wondrous Item,No SubType,Not Required,Summoning
+
+Stone of Golorr,Artifact,Wondrous Item,No SubType,Required,
+
+Stone of Good Luck (Luckstone),Uncommon,Wondrous Item,No SubType,Required,"Bonus: Saving Throws, Bonus: Ability Checks, Bonus: Initiative, Buff"
+
+Stone of Ill Luck,Uncommon,Wondrous Item,No SubType,Required,"Bonus: Saving Throws, Bonus: Ability Checks, Bonus: Initiative, Cursed"
+
+Stonespeaker Crystal,Rare,Wondrous Item,No SubType,Required,"Advantage: Investigation, Bonus: Passive Investigation, Communication, Detection"
+
+Stonkyï¿½s ring,Unknown Rarity,Ring,No SubType,Required,"Control, Utility, Jewelry"
+
+Storm Boomerang,Uncommon,Weapon,Boomerang,Not Required,"Damage: Thunder, Stunned, Damage, Range"
+
+Stormgirdle,Legendary,Wondrous Item,No SubType,Required,"Resistance: Lightning, Resistance: Thunder, Set: Strength Score"
+
+Strixhaven Pennant,Common,Wondrous Item,No SubType,Not Required,
+
+Sun Blade,Rare,Weapon,Longsword,Required,"Damage: Radiant, Bonus: Magic, Weapon Property: Finesse, Replace Damage Type: Radiant, Damage, Combat, Versatile"
+
+Sunforger,Rare,Weapon,Warhammer,Required,"Bonus: Magic, Versatile"
+
+Sunsword,Legendary,Weapon,Longsword,Required,"Damage: Radiant, Bonus: Magic, Weapon Property: Finesse, Replace Damage Type: Radiant, Damage, Combat, Versatile"
+
+Sword of Answering,Legendary,Weapon,Longsword,Required,"Bonus: Magic, creature with the same alignment as the sword, Damage, Control, Combat, Versatile"
+
+Sword of Kas,Artifact,Weapon,Longsword,Required,"Bonus: Initiative, Bonus: Magic, Damage, Buff, Debuff, Combat, Cursed, Versatile"
+
+Sword of Life Stealing,Rare,Weapon,No SubType,Required,"Damage: Necrotic, Bonus: Temporary Hit Points, Healing, Damage, Combat"
+
+Sword of Sharpness,Very Rare,Weapon,No SubType,Required,"Damage: Slashing, Damage, Combat"
+
+Sword of the Paruns,Very Rare,Weapon,Longsword,Required,"Bonus: Magic, Versatile"
+
+Sword of Vengeance,Uncommon,Weapon,No SubType,Required,"Bonus: Magic, Damage, Combat, Cursed"
+
+Sword of Wounding,Rare,Weapon,No SubType,Required,"Damage: Necrotic, Damage, Combat"
+
+Sword of Zariel,Artifact,Weapon,Longsword,Required,"Damage: Radiant, Advantage: Insight, Resistance: Necrotic, Resistance: Radiant, Sense: Truesight, Set: Charisma Score, Language: Celestial, Set: Speed (Flying), creature the sword deems worthy, Versatile"
+
+Talisman of Pure Good,Legendary,Wondrous Item,No SubType,Required,"Bonus: Spell Attacks, Creature of Good Alignment, Control, Buff, Jewelry"
+
+Talisman of the Sphere,Legendary,Wondrous Item,No SubType,Required,"Control, Buff, Utility"
+

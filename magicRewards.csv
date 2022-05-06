@@ -1,17 +1,5 @@
 Name,Rarity,Type,SubType,Attunement,Notes
-Potion of Invulnerability,Rare,Potion,No SubType,Not Required,"Resistance: All, Warding, Consumable"
-Living Armor,Very Rare,Armor,Plate,Required,"Bonus: Armor Class, Resistance: Necrotic, Resistance: Poison, Resistance: Psychic, Combat, Warding, Symbiotic, Str 15 Required, Stealth Disadvantage"
-Ring of Red Fury,Very Rare,Ring,No SubType,Required,Set: Innate Speed (Swimming)
-Atlas of Endless Horizons,Rare,Wondrous Item,No SubType,Required,wizard
-Inquisitive’s Goggles,Uncommon,Wondrous Item,No SubType,Required,
-Horn of Silent Alarm,Common,Wondrous Item,No SubType,Not Required,
-Scribe’s Pen,Common,Wondrous Item,No SubType,Required,creature with the Mark of Scribing
-Hellfire Weapon,Uncommon,Weapon,No SubType,Not Required,"Damage, Combat"
-Cast-Off Armor,Common,Armor,Breastplate,Not Required,Utility
-Potion of Vitality,Very Rare,Potion,No SubType,Not Required,"Cures Disease, Removes Poison, Max HP from Hit Dice, Healing, Consumable"
-Potion of Invisibility,Very Rare,Potion,No SubType,Not Required,"Invisible, Deception, Consumable"
-Feather Token,Rare,Wondrous Item,No SubType,Not Required,"Creation, Summoning, Damage, Control, Movement, Utility, Exploration, Combat, Consumable"
-Potion of Mind Reading,Rare,Potion,No SubType,Not Required,"Control, Detection, Consumable"
-Marvelous Pigments,Very Rare,Wondrous Item,No SubType,Not Required,"Utility, Consumable"
-Bead of Force,Rare,Wondrous Item,No SubType,Not Required,"Damage: Force, Damage, Control, Combat, Consumable"
-Duskcrusher,Very Rare,Weapon,Warhammer,Required,"Damage: Radiant, Bonus: Magic, Replace Damage Type: Radiant, Versatile"
+Potion of Healing,Common,Potion,No SubType,Not Required,"Bonus: Hit Points, Healing, Consumable"
+Blood of the Lycanthrope Antidote,Uncommon,Potion,No SubType,Not Required,Consumable
+Potion of Watchful Rest,Common,Potion,No SubType,Not Required,Consumable
+Keoghtom's Ointment,Uncommon,Wondrous Item,No SubType,Not Required,"Bonus: Hit Points, Ceases Poison, Cures Diseases, Healing, Consumable"
