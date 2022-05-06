@@ -3,7 +3,7 @@
 
 from random import randint
 from pathlib import Path
-import csv
+import csv, os
 
 # Roll table for Treasure Hoard CR 0-4.
 def magicTableCR4(d100):
@@ -25,7 +25,7 @@ def magicTableCR4(d100):
     # elif d100 in [i for i in range(27,37)] + [i for i in range(53,61)] + [i for i in range(71,76)] + [i for i in range(81,86)] + [i for i in range(93,98)] + [i for i in range(100, 101)]:
     #     reward.append(f'{gems * 50} gp worth of gems.')
     # Generate list of Consumables.
-    with open(Path.cwd() / Path('MagicItems.csv'), 'r', encoding='Windows-1252') as dBase:
+    with open('MagicItems.csv', 'r', encoding='Windows-1252') as dBase:
         reader = csv.reader(dBase, delimiter = '\n')
         for row in reader:
             for i in row:
@@ -470,6 +470,10 @@ def magicTableCR17(d100):
 
 # Accept CR as argument and choose correct table for hoard.
 def treasureHoard(CR):
+    if not os.path.exists("MagicItems.csv"):
+        from ddbScrape import magicItemScraper
+        print('Creating Magic Item Database.')
+        magicItemScraper()
     d100 = randint(1,100)
     with open('magicRewards.csv', 'w', encoding='Windows-1252') as rew:
         writer = csv.writer(rew)
@@ -506,6 +510,4 @@ def treasureHoard(CR):
                 magicItem.append(notes)
                 writer.writerow(magicItem)
                 print(f'Added item {magicItem[0]} to reward list.')
-
-treasureHoard(4)
 # End of file.
