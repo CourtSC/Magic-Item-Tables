@@ -45,12 +45,12 @@ def ddbScraper():
             print(f'Added item {i[0]} to database.')
 
 # def griffonScraper():
-with open("The Ledger The Griffon's Saddlebag on Patreon.htm") as res:
-    content = res.read()
-    soup = bs4.BeautifulSoup(content, "html.parser")
-    itemName = soup.select('.link span')
-    itemRarity = soup.select('.rarity') # Need to strip whitespace.
-    itemType = soup.select('.row.item-type .type') # Need to strip whitespace.
-    itemSubType = soup.select('.row.item-type .subtype') # Need to strip whitespace.
-    itemAttunement = soup.select('.row.requires-attunement') # Need to strip whitespace.
-    itemNotes = soup.select('.row.notes') # Need to strip whitespace.
+# with open("The Ledger The Griffon's Saddlebag on Patreon.htm") as res:
+#     content = res.read()
+#     soup = bs4.BeautifulSoup(content, "html.parser")
+#     itemName = soup.select('.link span')
+#     itemRarity = soup.select('.rarity') # Need to strip whitespace.
+#     itemType = soup.select('.row.item-type .type') # Need to strip whitespace.
+#     itemSubType = soup.select('.row.item-type .subtype') # Need to strip whitespace.
+#     itemAttunement = soup.select('.row.requires-attunement') # Need to strip whitespace.
+#     itemNotes = soup.select('.row.notes') # Need to strip whitespace.
