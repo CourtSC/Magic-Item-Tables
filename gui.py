@@ -1,18 +1,66 @@
 import tkinter as tk
+from turtle import title
 from magicItemTables import treasureHoard
+from fractions import Fraction
 
-class HelloFriend(tk.Frame):
-    def __init__(self, parent):
-        super(HelloFriend, self).__init__(parent)
+root = tk.Tk()
 
-        for row in treasureHoard(4):
-            self.name = tk.Label(self, text = row[0])
-            self.name.pack(padx=0, pady=5)
+# Widget to accept user entry for CR.
+label = tk.Label(root, text= "Enter monster CR:")
+label.pack()
 
-if __name__ == "__main__":
-    root = tk.Tk()
+entry = tk.Entry(root, width= 20)
+entry.focus_set()
+entry.pack()
 
-    main = HelloFriend(root)
-    main.pack(fill="both", expand = True)
+# Function to generate items.
+def itemGen():
+    for child in frame.winfo_children():
+            child.destroy()
+    challengeRating = float(Fraction(entry.get()))
+    frameHead = tk.Label(frame, text="Magic Items", font="bold")
+    frameHead.pack()
+    for row in treasureHoard(challengeRating):
+        if row[1].strip() in ('+1', '+2', '+3'):
+            row[0] = ''.join(row[0:2])
+        name = tk.Label(frame, text= row[0])
+        name.pack(padx=0, pady=1)
 
-    root.mainloop()
+# Button that runs the itemGen function.
+itemGenButton = tk.Button(root, text= "Generate Item List", command= itemGen)
+itemGenButton.pack(padx= 0, pady= 10)
+
+frame = tk.Frame()
+frame.pack(side=tk.LEFT)
+
+root.mainloop()
+
+# class HelloFriend(tk.Frame):
+#     def __init__(self, parent):
+#         super(HelloFriend, self).__init__(parent)
+
+#         # Widget to accept user entry for CR.
+#         self.label = tk.Label(self, text= "Enter monster CR:")
+#         self.label.pack()
+
+#         self.entry = tk.Entry(self, width= 20)
+#         self.entry.focus_set()
+#         self.entry.pack()
+
+#         # Generate magic item rewards.
+#         def magicItemButton():
+#             challengeRating = float(Fraction(self.entry.get()))
+#             for row in treasureHoard(challengeRating):
+#                 self.name = tk.Label(self, text= row[0])
+#                 self.name.pack(padx=0, pady=5)
+
+#         self.itemGen = tk.Button(self, text= "Generate Item List", command= magicItemButton)
+#         self.itemGen.pack(padx= 0, pady= 10)
+
+# if __name__ == "__main__":
+#     root = tk.Tk()
+
+#     main = HelloFriend(root)
+#     main.pack(fill="both", expand = True)
+
+#     root.mainloop()
