@@ -1,6 +1,5 @@
 import tkinter as tk
-from turtle import title
-from magicItemTables import treasureHoard
+from randomTables import magicItems
 from fractions import Fraction
 
 root = tk.Tk()
@@ -20,7 +19,7 @@ def itemGen():
     challengeRating = float(Fraction(entry.get()))
     frameHead = tk.Label(frame, text="Magic Items", font="bold")
     frameHead.pack()
-    for row in treasureHoard(challengeRating):
+    for row in magicItems(challengeRating):
         if row[1].strip() in ('+1', '+2', '+3'):
             row[0] = ''.join(row[0:2])
         name = tk.Label(frame, text= row[0])

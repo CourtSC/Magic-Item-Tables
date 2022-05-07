@@ -469,7 +469,7 @@ def magicTableCR17(d100):
     return reward
 
 # Accept CR as argument and choose correct table for hoard.
-def treasureHoard(CR):
+def magicItems(CR):
     if not os.path.exists("magicItems.csv"):
         from itemScraper import ddbScraper
         print('Creating Magic Item Database.')
@@ -509,5 +509,6 @@ def treasureHoard(CR):
             reward.append(magicItem)
             # print(f'Added item {magicItem[0]} to reward list.')
     return reward
+
 
 # End of file.
