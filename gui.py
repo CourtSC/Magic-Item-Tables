@@ -1,8 +1,10 @@
 import tkinter as tk
-from randomTables import magicItems
+from randomTables import magicItems, valuables
 from fractions import Fraction
+from random import randint
 
 root = tk.Tk()
+root.title("Treasure Hoard")
 
 # Widget to accept user entry for CR.
 label = tk.Label(root, text= "Enter monster CR:")
@@ -14,23 +16,41 @@ entry.pack()
 
 # Function to generate items.
 def itemGen():
-    for child in frame.winfo_children():
-            child.destroy()
+    for child in itemFrame.winfo_children():
+        child.destroy()
+    for child in valFrame.winfo_children():
+        child.destroy()
     challengeRating = float(Fraction(entry.get()))
-    frameHead = tk.Label(frame, text="Magic Items", font="bold")
-    frameHead.pack()
+    itemFrameHead = tk.Label(itemFrame, text="Magic Items", font="bold")
+    itemFrameHead.pack()
+    valFrameHead = tk.Label(valFrame, text="Valuables", font="bold")
+    valFrameHead.pack()
     for row in magicItems(challengeRating):
+        if row[0] == 'Ammunition':
+            row[0] = f'{randint(1,20) + 10}x {row[0]}'
+        if row[0] == 'Potion of Healing':
+            row[0] = f'{randint(1,4)}x {row[0]}'
         if row[1].strip() in ('+1', '+2', '+3'):
             row[0] = ''.join(row[0:2])
-        name = tk.Label(frame, text= row[0])
+        name = tk.Label(itemFrame, text= row[0])
         name.pack(padx=0, pady=1)
+    for row in valuables(challengeRating):
+        for coin in row[0]:
+            name = tk.Label(valFrame, text= coin)
+            name.pack(padx=0, pady=1)
+        for obj in row[1:]:
+            name = tk.Label(valFrame, text= obj)
+            name.pack(padx=0, pady=1)
+        
 
 # Button that runs the itemGen function.
-itemGenButton = tk.Button(root, text= "Generate Item List", command= itemGen)
+itemGenButton = tk.Button(root, text= "Generate Treasure Hoard", command= itemGen)
 itemGenButton.pack(padx= 0, pady= 10)
 
-frame = tk.Frame()
-frame.pack(side=tk.LEFT)
+itemFrame = tk.Frame()
+itemFrame.pack(side=tk.LEFT, padx=30)
+valFrame = tk.Frame()
+valFrame.pack(side=tk.RIGHT, padx=30)
 
 root.mainloop()
 
