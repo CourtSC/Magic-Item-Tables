@@ -1,3 +1,6 @@
 *-todo.md
 *.csv
+*.htm
+*.html
 notes/
+__pycache__/

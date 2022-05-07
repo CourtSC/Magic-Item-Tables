@@ -4,10 +4,10 @@
 
 import bs4, requests_html, csv
 
-def magicItemScraper():
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29'}
-    session = requests_html.HTMLSession()
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29'}
+session = requests_html.HTMLSession()
 
+def ddbScraper():
     data = []
     page = 1
     nextPage = True
@@ -37,9 +37,20 @@ def magicItemScraper():
                 else:
                     data.append((itemName[i].getText().strip(), itemRarity[i].getText().strip(), itemType[i].getText().strip(), 'No SubType', 'Not Required', itemNotes[i].getText().strip()))
             
-    with open('MagicItems.csv', 'w', encoding='Windows-1252') as dBase:
+    with open('magicItems.csv', 'w', encoding='Windows-1252') as dBase:
         writer = csv.writer(dBase)
         writer.writerow(('Name', 'Rarity', 'Type', 'SubType', 'Attunement', 'Notes'))
         for i in data:
             writer.writerow(i)
             print(f'Added item {i[0]} to database.')
+
+# def griffonScraper():
+with open("The Ledger The Griffon's Saddlebag on Patreon.htm") as res:
+    content = res.read()
+    soup = bs4.BeautifulSoup(content, "html.parser")
+    itemName = soup.select('.link span')
+    itemRarity = soup.select('.rarity') # Need to strip whitespace.
+    itemType = soup.select('.row.item-type .type') # Need to strip whitespace.
+    itemSubType = soup.select('.row.item-type .subtype') # Need to strip whitespace.
+    itemAttunement = soup.select('.row.requires-attunement') # Need to strip whitespace.
+    itemNotes = soup.select('.row.notes') # Need to strip whitespace.
