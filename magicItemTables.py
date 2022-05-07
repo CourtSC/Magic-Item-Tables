@@ -476,9 +476,6 @@ def treasureHoard(CR):
         ddbScraper()
     d100 = randint(1,100)
     reward = []
-    # # with open('magicRewards.csv', 'w', encoding='Windows-1252') as rew:
-    #     writer = csv.writer(rew)
-    #     writer.writerow(('Name', 'Rarity', 'Type', 'SubType', 'Attunement', 'Notes'))
     if CR <= 4:
         for i in magicTableCR4(d100):
             line = ''.join(i).split(', ')
@@ -513,8 +510,4 @@ def treasureHoard(CR):
             # print(f'Added item {magicItem[0]} to reward list.')
     return reward
 
-    # with open('magicRewards.csv', 'r', encoding='Windows-1252') as rew:
-    #     reader = csv.reader(rew, delimiter = '\n')
-    #     for row in reader:
-    #         ''.join(row).replace(', ',',').replace(',', ', ')
 # End of file.
