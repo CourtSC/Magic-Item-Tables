@@ -564,5 +564,3 @@ def valuables(CR):
     return reward
 
 # End of file.
-# Test case
-print(valuables(101))
