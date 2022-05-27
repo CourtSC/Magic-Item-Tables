@@ -545,22 +545,24 @@ def valuables(CR):
         reward.append(valuablesCR4(d100))
         if d100 >= (100 - CR):
             ep = sum([randint(1,6) for i in range(2)])
-            reward.append(f'{ep * 10} EP')
+            reward[0].append(f'{ep * 10} EP')
     elif CR in range(5,11):
         reward.append(valuablesCR10(d100))
         if d100 >= (100 - CR):
             ep = sum([randint(1,6) for i in range(6)])
-            reward.append(f'{ep * 10} EP')
+            reward[0].append(f'{ep * 10} EP')
     elif CR in range(11,17):
         reward.append(valuablesCR16(d100))
         if d100 >= (100 - CR):
             ep = sum([randint(1,8) for i in range(6)])
-            reward.append(f'{ep * 100} EP')
+            reward[0].append(f'{ep * 100} EP')
     elif CR >= 17:
         reward.append(valuablesCR17(d100))
         if d100 >= (100 - CR):
             ep = sum([randint(1,6) for i in range(12)])
-            reward.append(f'{ep * 100} EP')
+            reward[0].append(f'{ep * 100} EP')
     return reward
 
 # End of file.
+# Test case
+print(valuables(101))
