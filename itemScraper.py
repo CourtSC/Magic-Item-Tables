@@ -90,7 +90,7 @@ def ddbScraper():
             print(f"Added item {i[0]} to database.")
 
 
-# Uncomment line 93 if you want to build a database using this file without needing to run it from the GUI.
+# Uncomment line 94 if you want to build a database using this file without needing to run it from the GUI.
 # ddbScraper()
 
 # def griffonScraper():
